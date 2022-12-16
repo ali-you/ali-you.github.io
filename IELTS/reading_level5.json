@@ -1,0 +1,54 @@
+{
+  "readings": [
+    {
+      "reading_content": "The musician Yo-Yo Ma’s  cello may not be the obvious starting point for a journey into one of the world’s great universities. But, as you quickly realise when you step inside the Massachusetts Institute of Technology, there’s precious little going on that you would normally see on a university campus. The cello, resting in a corner of MIT’s celebrated media laboratory – a hub of creativity – looks like any other electric classical instrument. But it is much more. Machover, the composer, teacher and inventor  responsible for its creation, calls it  a ‘hyperinstrument’,  a sort  of  thinking machine that  allows  Ma and his cello to  interact with one another and make  music together. ‘The  aim is  to  build an instrument worthy of a great musician like Yo-Yo Ma that can  understand  what  he  is  trying  to  do  and  respond  to  it,’ Machover says. The cello has numerous sensors across its body  and by  measuring the pressure, speed and angle of  the virtuoso’s  performance it  can interpret his mood  and engage with it, producing extraordinary new sounds. The virtuoso cellist frequently  performs on  the instrument  as  he  tours around  the  world. Machover’s passion for pushing at the boundaries of the existing  world to  extend  and unleash human potential is not a bad description of MIT as a whole. This unusual community brings  highly  gifted, highly  motivated individuals together from a vast range of disciplines, united by  a common  desire: to  leap  into  the dark  and reach for the unknown. The result  of  that  single  unifying  ambition  is  visible all around. For the past 150 years, MIT has been leading the world into  the future. The discoveries of  its teachers and students have become the common everyday objects that we now all take for granted. The telephone, electromagnets, radars, high-speed photography,  office  photocopiers, cancer treatments,  pocket  calculators,  computers,  the Internet, the decoding of the human genome, lasers, space travel … the list  of  innovations  that  involved essential contributions  from MIT and its faculty goes on  and on. From the moment MIT was founded by William Barton Rogers in 1861, it was clear what it was not. While Harvard stuck to the English model of a classical education, with its emphasis on Latin and Greek, MIT looked to the German system of  learning  based on  research  and hands-on experimentation. Knowledge was at a premium, but it had to  be useful. This down-to-earth quality is  enshrined in  the school motto,  Mens et manus  – Mind  and hand – as  well as  its logo, which shows a gowned scholar standing beside an ironmonger bearing a hammer  and anvil.  That  symbiosis of intellect and craftsmanship still suffuses the institute’s classrooms, where students  are not so much  taught  as engaged and inspired. Take  Christopher  Merrill,  21,  a  third-year  undergraduate in computer science. He is spending most of his time on a competition set in his robotics class. The contest is to see which student can most effectively program a robot to build a  house  out  of  blocks  in  under  ten  minutes.  Merrill  says  he could have gone for the easiest route – designing a simple robot that  would build the house quickly.  But he  wanted to try to master an area of robotics that remains unconquered – adaptability, the ability of the robot to rethink its plans as the environment around it changes, as would a human. ‘I like to take on things that have never been done before rather than to work in an iterative way just making small steps forward,’ he explains. Merrill is already planning the start-up he wants to set up when he graduates in a year’s time. He has an idea for an original version of a contact lens that would augment reality by allowing consumers to see additional visual information. He is fearful that he might be just too late in taking his concept to market, as he has heard that a Silicon Valley firm is already developing something similar. As such, he might become one of many MIT graduates who go on to form companies that fail. Alternatively, he might become one of those who go on to succeed in spectacular fashion. And there are many of them. A survey of living MIT alumni* found that they have formed 25,800 companies, employing more than three million people, including about a quarter of the workforce of Silicon Valley. What MIT delights in is taking brilliant minds from around the world in vastly diverse disciplines and putting them together. You can see that in its sparkling new David Koch Institute for Integrative Cancer Research, which brings scientists, engineers and clinicians under one roof. Or in its Energy Initiative, which acts as a bridge for MIT’s combined work across all its five schools, channelling huge resources into the search for a solution to global warming. It works to improve the efficiency of existing energy sources, including nuclear power. It is also forging ahead with alternative energies from solar to wind and geothermal, and has recently developed the use of viruses to synthesise batteries that could prove crucial in the advancement of electric cars.In the words of Tim Berners-Lee, the Briton who invented the World Wide Web, ‘It’s not just another university. Even though I spend my time with my head buried in the details of web technology, the nice thing is that when I do walk the corridors, I bump into people who are working in other fields with their students that are fascinating, and that keeps me intellectually alive.",
+      "true_false_question_title": "Read the passage and decide whether each question is True, False or Not Given",
+      "true_false_question": [
+        {
+          "question": "The activities going on at the MIT campus are like those at any other university.",
+          "answer": "FALSE",
+          "answer_description": ""
+        },
+        {
+          "question": "Harvard and MIT shared a similar approach to education when they were founded.",
+          "answer": "FALSE",
+          "answer_description": ""
+        },
+        {
+          "question": "The school motto was suggested by a former MIT student.",
+          "answer": "NOT GIVEN",
+          "answer_description": ""
+        },
+        {
+          "question": "MIT’s logo reflects the belief that intellect and craftsmanship go together.",
+          "answer": "TRUE",
+          "answer_description": ""
+        },
+        {
+          "question": "Silicon Valley companies pay higher salaries to graduates from MIT.",
+          "answer": "NOT GIVEN",
+          "answer_description": ""
+        }
+      ],
+      "gap_question_title": "Read Questions and quickly check what information you need for each gap. Then, using the title to find the right part of the passage, answer the questions.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nChristopher Merrill – student at MIT",
+      "gap_question": [
+        {
+          "question": "Degree subject: $...$",
+          "answer": "computer science"
+        },
+        {
+          "question": "Competition:  to $...$ the automated construction of a house ",
+          "answer": "program"
+        },
+        {
+          "question": "Special focus on:  the $...$ of robots",
+          "answer": "adaptability"
+        },
+        {
+          "question": "Future plans:  to develop new type of $...$",
+          "answer": "contact lens"
+        }
+      ]
+    }
+  ]
+}
