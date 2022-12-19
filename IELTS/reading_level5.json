@@ -20,7 +20,7 @@
           },
           {
             "question": "The school motto was suggested by a former MIT student.",
-            "answer": "NOT GIVEN",
+            "answer": "Not Given",
             "answer_description": "(The motto is mentioned, but we are not told who suggested it.)"
           },
           {
@@ -30,7 +30,7 @@
           },
           {
             "question": "Silicon Valley companies pay higher salaries to graduates from MIT.",
-            "answer": "NOT GIVEN",
+            "answer": "Not Given",
             "answer_description": "(There is nothing in the text about how much MIT graduates are paid in Silicon Valley.)"
           }
         ]
@@ -78,7 +78,7 @@
           },
           {
             "question": "The school motto was suggested by a former MIT student.",
-            "answer": "NOT GIVEN",
+            "answer": "Not Given",
             "answer_description": ""
           },
           {
