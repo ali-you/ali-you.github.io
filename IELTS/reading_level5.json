@@ -11,27 +11,27 @@
           {
             "question": "The activities going on at the MIT campus are like those at any other university.",
             "answer": "False",
-            "answer_description": ""
+            "answer_description": "(... there's prectous little going on that you would normally see on a university campus.)"
           },
           {
             "question": "Harvard and MIT shared a similar approach to education when they were founded.",
             "answer": "False",
-            "answer_description": ""
+            "answer_description": "(While Harvard stuck to the English model of a classical education, with its emphasis on Latin and Greek, MIT looked to the German system of learning based on research and hands-on experimentation.)"
           },
           {
             "question": "The school motto was suggested by a former MIT student.",
             "answer": "NOT GIVEN",
-            "answer_description": ""
+            "answer_description": "(The motto is mentioned, but we are not told who suggested it.)"
           },
           {
             "question": "MIT’s logo reflects the belief that intellect and craftsmanship go together.",
             "answer": "True",
-            "answer_description": ""
+            "answer_description": "(... its logo, which shows a gowned scholar standing beside an ironmonger bearing a hammer and anvil. That symbiosis of intellect and craftsmanship ...)"
           },
           {
             "question": "Silicon Valley companies pay higher salaries to graduates from MIT.",
             "answer": "NOT GIVEN",
-            "answer_description": ""
+            "answer_description": "(There is nothing in the text about how much MIT graduates are paid in Silicon Valley.)"
           }
         ]
       },
