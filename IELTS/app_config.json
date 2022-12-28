@@ -1,0 +1,33 @@
+{
+  "google_play": "https://play.google.com/store/apps/details?id=com.uvco.tasbihcounter",
+  "bazaar": "",
+  "current_version": "1.0.0",
+  "min_version": "1.0.0",
+  "social_media": [
+    {
+      "name": "instagram",
+      "link": "www.instagram.com/uvstudio",
+      "icon": "fuck.png",
+      "region": "global"
+    },
+    {
+      "name": "telegram",
+      "link": "www.instagram.com/uvstudio",
+      "icon": "fuck.png",
+      "region": "global"
+    }
+  ],
+  "support_link": [
+    {
+      "name": "email",
+      "link": "www.instagram.com/uvstudio",
+      "icon": "fuck.png",
+      "region": "ir"
+    }
+  ],
+  "show_banner": true,
+  "show_interstitial": true,
+  "show_rewarded_interstitial": true,
+  "show_rewarded": true,
+  "show_app_open_ads": true
+}
