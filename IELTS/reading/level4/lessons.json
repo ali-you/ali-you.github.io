@@ -1,0 +1,284 @@
+{
+  "readings": [
+    {
+      "reading_title": "The MIT factor: celebrating 150 years of maverick genius",
+      "reading_content": "The musician Yo-Yo Ma’s  cello may not be the obvious starting point for a journey into one of the world’s great universities. But, as you quickly realise when you step inside the Massachusetts Institute of Technology, there’s precious little going on that you would normally see on a university campus. The cello, resting in a corner of MIT’s celebrated media laboratory – a hub of creativity – looks like any other electric classical instrument. But it is much more. Machover, the composer, teacher and inventor  responsible for its creation, calls it  a ‘hyperinstrument’,  a sort  of  thinking machine that  allows  Ma and his cello to  interact with one another and make  music together. ‘The  aim is  to  build an instrument worthy of a great musician like Yo-Yo Ma that can  understand  what  he  is  trying  to  do  and  respond  to  it,’ Machover says. The cello has numerous sensors across its body  and by  measuring the pressure, speed and angle of  the virtuoso’s  performance it  can interpret his mood  and engage with it, producing extraordinary new sounds. The virtuoso cellist frequently  performs on  the instrument  as  he  tours around  the  world. Machover’s passion for pushing at the boundaries of the existing  world to  extend  and unleash human potential is not a bad description of MIT as a whole. This unusual community brings  highly  gifted, highly  motivated individuals together from a vast range of disciplines, united by  a common  desire: to  leap  into  the dark  and reach for the unknown. The result  of  that  single  unifying  ambition  is  visible all around. For the past 150 years, MIT has been leading the world into  the future. The discoveries of  its teachers and students have become the common everyday objects that we now all take for granted. The telephone, electromagnets, radars, high-speed photography,  office  photocopiers, cancer treatments,  pocket  calculators,  computers,  the Internet, the decoding of the human genome, lasers, space travel … the list  of  innovations  that  involved essential contributions  from MIT and its faculty goes on  and on. From the moment MIT was founded by William Barton Rogers in 1861, it was clear what it was not. While Harvard stuck to the English model of a classical education, with its emphasis on Latin and Greek, MIT looked to the German system of  learning  based on  research  and hands-on experimentation. Knowledge was at a premium, but it had to  be useful. This down-to-earth quality is  enshrined in  the school motto,  Mens et manus  – Mind  and hand – as  well as  its logo, which shows a gowned scholar standing beside an ironmonger bearing a hammer  and anvil.  That  symbiosis of intellect and craftsmanship still suffuses the institute’s classrooms, where students  are not so much  taught  as engaged and inspired. Take  Christopher  Merrill,  21,  a  third-year  undergraduate in computer science. He is spending most of his time on a competition set in his robotics class. The contest is to see which student can most effectively program a robot to build a  house  out  of  blocks  in  under  ten  minutes.  Merrill  says  he could have gone for the easiest route – designing a simple robot that  would build the house quickly.  But he  wanted to try to master an area of robotics that remains unconquered – adaptability, the ability of the robot to rethink its plans as the environment around it changes, as would a human. ‘I like to take on things that have never been done before rather than to work in an iterative way just making small steps forward,’ he explains. Merrill is already planning the start-up he wants to set up when he graduates in a year’s time. He has an idea for an original version of a contact lens that would augment reality by allowing consumers to see additional visual information. He is fearful that he might be just too late in taking his concept to market, as he has heard that a Silicon Valley firm is already developing something similar. As such, he might become one of many MIT graduates who go on to form companies that fail. Alternatively, he might become one of those who go on to succeed in spectacular fashion. And there are many of them. A survey of living MIT alumni* found that they have formed 25,800 companies, employing more than three million people, including about a quarter of the workforce of Silicon Valley. What MIT delights in is taking brilliant minds from around the world in vastly diverse disciplines and putting them together. You can see that in its sparkling new David Koch Institute for Integrative Cancer Research, which brings scientists, engineers and clinicians under one roof. Or in its Energy Initiative, which acts as a bridge for MIT’s combined work across all its five schools, channelling huge resources into the search for a solution to global warming. It works to improve the efficiency of existing energy sources, including nuclear power. It is also forging ahead with alternative energies from solar to wind and geothermal, and has recently developed the use of viruses to synthesise batteries that could prove crucial in the advancement of electric cars.In the words of Tim Berners-Lee, the Briton who invented the World Wide Web, ‘It’s not just another university. Even though I spend my time with my head buried in the details of web technology, the nice thing is that when I do walk the corridors, I bump into people who are working in other fields with their students that are fascinating, and that keeps me intellectually alive.",
+      "reading_voice_url": "https://ali-you.github.io/IELTS/reading/level5/voice/lesson2.mp3",
+      "question_count": 2,
+      "true_false_question": {
+        "title": "Read the passage and decide whether each question is True, False or Not Given",
+        "priority": 1,
+        "questions": [
+          {
+            "question": "The activities going on at the MIT campus are like those at any other university.",
+            "answer": "False",
+            "answer_description": "(... there's prectous little going on that you would normally see on a university campus.)"
+          },
+          {
+            "question": "Harvard and MIT shared a similar approach to education when they were founded.",
+            "answer": "False",
+            "answer_description": "(While Harvard stuck to the English model of a classical education, with its emphasis on Latin and Greek, MIT looked to the German system of learning based on research and hands-on experimentation.)"
+          },
+          {
+            "question": "The school motto was suggested by a former MIT student.",
+            "answer": "Not Given",
+            "answer_description": "(The motto is mentioned, but we are not told who suggested it.)"
+          },
+          {
+            "question": "MIT’s logo reflects the belief that intellect and craftsmanship go together.",
+            "answer": "True",
+            "answer_description": "(... its logo, which shows a gowned scholar standing beside an ironmonger bearing a hammer and anvil. That symbiosis of intellect and craftsmanship ...)"
+          },
+          {
+            "question": "Silicon Valley companies pay higher salaries to graduates from MIT.",
+            "answer": "Not Given",
+            "answer_description": "(There is nothing in the text about how much MIT graduates are paid in Silicon Valley.)"
+          }
+        ]
+      },
+      "gap_question": {
+        "title": "Read Questions and quickly check what information you need for each gap. Then, using the title to find the right part of the passage, answer the questions.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nChristopher Merrill – student at MIT",
+        "priority": 2,
+        "questions": [
+          {
+            "question": "Degree subject: $...$",
+            "answer": "computer science",
+            "answer_description": ""
+          },
+          {
+            "question": "Competition:  to $...$ the automated construction of a house ",
+            "answer": "program",
+            "answer_description": ""
+          },
+          {
+            "question": "Special focus on:  the $...$ of robots",
+            "answer": "adaptability",
+            "answer_description": ""
+          },
+          {
+            "question": "Future plans:  to develop new type of $...$",
+            "answer": "contact lens",
+            "answer_description": ""
+          }
+        ]
+      }
+    },
+    {
+      "reading_title": "Learning color words",
+      "reading_content": "In the course of the first few years of their lives, children who are brought up in English- speaking homes successfully master the use of hundreds of words. Words for objects, actions, emotions, and many other aspects of the physical world quickly become part of their infant repertoire. For some reason, however, when it comes to learning color words, the same children perform very badly. At the age of four months, babies can distinguish between basic color categories. Yet it turns out they do this in much the same way as blind children. “Blue” and “yellow” appear in older children’s expressive language in answer to questions such as \"What color is this?”, but their mapping of objects to individual colors is haphazard and interchangeable. If shown a blue cup and asked about its color, typical two-year-olds seem as likely to come up with “red” as “blue.” Even after hundreds of training trials, children as old as four may still end up being unable to accurately sort objects by color, In an effort to work out why this is, cognitive scientists at Stanford University in California hypothesized that children’s incompetence at color-word learning may be directly linked to the way these words are used in English. While word order for color adjectives varies, they are used overwhelmingly in pre-nominal position (e.g. “blue cup”); in other words, the adjective comes before the noun it is describing. This is in contrast to post-nominal position (e.g. “The cup is blue\") where the adjective comes after the noun. It seems that the difficulty children have may not be caused by any unique property of color, or indeed, of the world. Rather, it may simply come down to the challenge of having to make predictions from color words to the objects they refer to, instead of being able to make predictions fram the world of objects to the color words. To illustrate, the word “chair” has a meaning that applies to the somewhat varied set of entities in the world that people use for sitting on. Chairs have features, such as arms and legs and backs, that are combined to some degree in a systematic way; they turn up in.a range of chairs of different shapes, sizes, and ages. It could be said that children learn to narrow down the set of cues that make up a chair and in this way they learn the concept associated with that word. On the other hand, color words tend to. be unique and not bound to other specific co-occurring features; there is nothing systematic about color words to help cue their meaning. In the speech that adults direct at children, color adjectives occur pre-nominally (“blue cup”) around 70 percent of the time. This suggests that most of what children hear from adults will, in fact, be unhelpful in learning what color words refer to. To explore this idea further, the research team recruited 41 English children aged between 23 and 29 months and carried out a three- phase experiment. It consisted of a pre-test, followed by training in the use of color words, and finally a post-test that was identical to the pre-test. The pre- and post-test materials comprised six objects that were novel to the children. There were three examples of each object in each of three colors—red, yellow, and blue. The objects were presented on trays, and in both tests, the children were asked to pick out objects in response to requests in which the color word was either a prenominal (“Which is the red one?”) ora post-nominal (“Which one is red?”). In the training, the children were introduced to a “magic bucket” containing five sets of items familiar to 26-month-olds (balls, cups, crayons, glasses, and toy bears) in each of the (20) Unit 2 three colors. The training was set up so that half the children were presented with the items one by one and heard them labelled with color words used pre-nominally (“This is a red crayon”), while the other half were introduced to the same items described with a post-nominal color word (“This crayon is red”). After the training, the children repeated the selection task on the unknown items in the post-test. To assess the quality of children’s understanding of the color words, and the effect of each type of training, correct choices on items that were consistent across the pre- and post-tests were used to measure children’s color knowledge. Individual analysis of pre- and post-test data, which confirmed parental vocabulary reports, showed the children had at least some knowledge of the three colour words: they averaged two out of three correct choices in response to both pre- and post-nominal question types, which, it has been pointed out, is better than chance. When children’s responses to the question types were assessed independently, performance was at its most consistent when children were both trained and tested on post-nominal adjectives, and worst when trained on pre-nominal adjectives and tested on post-nominal adjectives. Only children who had been trained with post- nominal coler-word presentation and then tested with post-naminal question types were significantly more accurate than chance. Comparing the pre- and post-test scores across each condition revealed a significant decline in performance when children were both pre- and post-tested with questions that placed the color words pre-nominally. As predicted, when children are exposed to color adjectives in post-nominal position, they learn them rapidly (after just five training trials per color); when they are presented with them pre-nominally, as English overwhelmingly tends to do, children show no signs of learning.",
+      "reading_voice_url": "https://ali-you.github.io/IELTS/reading/level5/voice/lesson2.mp3",
+      "question_count": 3,
+      "true_false_question": {
+        "title": "Read the passage and decide whether each question is True, False or Not Given",
+        "priority": 1,
+        "questions": [
+          {
+            "question": "The activities going on at the MIT campus are like those at any other university.",
+            "answer": "False",
+            "answer_description": ""
+          },
+          {
+            "question": "Harvard and MIT shared a similar approach to education when they were founded.",
+            "answer": "False",
+            "answer_description": ""
+          },
+          {
+            "question": "The school motto was suggested by a former MIT student.",
+            "answer": "Not Given",
+            "answer_description": ""
+          },
+          {
+            "question": "MIT’s logo reflects the belief that intellect and craftsmanship go together.",
+            "answer": "True",
+            "answer_description": ""
+          },
+          {
+            "question": "Silicon Valley companies pay higher salaries to graduates from MIT.",
+            "answer": "Not Given",
+            "answer_description": ""
+          }
+        ]
+      },
+      "gap_question": {
+        "title": "",
+        "priority": 2,
+        "questions": [
+          {
+            "question": "Children learn many words quite quickly, but their ability to learn colour words takes longer than expected. In fact, despite $...$ .",
+            "answer": "training trials",
+            "answer_description": "Even after hundreds of training trials, children as old as four may still end up being unable ta accurately sort objects by color."
+          },
+          {
+            "question": "many four-year-olds still struggle to arrange objects into colour categories. Scientists have hypothesised that this is due to the $...$ of the adjectives in a phrase or sentence and the challenges this presents.",
+            "answer": "(pre-nominal) position",
+            "answer_description": "In the speech thar adults direct at children, color adjectives occur pre-nominally (“blue cup”) around 70 percent of the time. This suggests that most of what children hear from adults will, in fact, be unhelpful in learning what color words refer to."
+          },
+          {
+            "question": "While objects consist of a number of $...$ that can be used to recognise other similar objects,",
+            "answer": "features/cues",
+            "answer_description": "Chairs have features, such as arms and legs and backs, that are combined to some degree in a systematic way; they turn up in a range of chairs of different shapes, sizes, and ages. It could be said that children learn to narrow down the set of cues that make up a chair..."
+          },
+          {
+            "question": "the $...$ of a colour cannot be developed using the same approach.",
+            "answer": "meaning/concept",
+            "answer_description": "... in this way they learn the concept associated with that word ... there is nothing systematic about color words to help cue their meaning."
+          },
+          {
+            "question": "As a consequence, the way colour words tend to be used in English may be $...$ to children.",
+            "answer": "unhelpful",
+            "answer_description": "In the speech that adults direct at children, color adjectives occur pre-nominally (“blue cup”) around 70 percent of the time. This Suggests that most of what children hear from adults will, in fact, be unhelpful in learning what color words refer to."
+          }
+        ]
+      },
+      "multi_choice_question": {
+        "title": "Choose TWO letter, A-E",
+        "priority": 3,
+        "questions": [
+          {
+            "question": "Which TWO of the following statements about the experiment are true?",
+            "selection_count": 2,
+            "choices": [
+              "The children were unfamiliar with the objects used in the pre- and post-test.",
+              "The children had to place the pre- and post-test objects onto coloured trays.",
+              "The training was conducted by dividing the children into two groups.",
+              "Pre-nominal questions were used less frequently than post-nominal questions in the training.",
+              "The researchers were looking for inconsistencies in children's knowledge of word order."
+            ],
+            "answers": [
+              {
+                "answer": "A",
+                "description": "The pre- and post-test materials comprised six objects that were novel to the children."
+              },
+              {
+                "answer": "C",
+                "description": "... half the children were presented with the items one by one and heard them labelled with color words used pre-nominally (“This is a red crayon”), while the other half were introduced to the same items described with a post-nominal color word (“This crayon ts red”)."
+              }
+            ]
+          },
+          {
+            "question": "Which TWO of the following outcomes are reported in the passage?",
+            "selection_count": 2,
+            "choices": [
+              "Average results contradicted parental assessment of children’s knowledge.",
+              "Children who were post-tested using post-nominal adjectives performed well, regardless of the type of training.",
+              "Greatest levels of improvement were achieved by children who were trained and post-tested using post-nominal adjectives.",
+              "Some children performed less well in the post-test than in the pre-test.",
+              "Some children were unable to accurately name any of the colours in the pre- and post-tests."
+            ],
+            "answers": [
+              {
+                "answer": "C",
+                "description": "Only children who had been trained with post- nominal color-word presentation and then tested with Post-nominal question types were significantly more accurate than chance."
+              },
+              {
+                "answer": "D",
+                "description": "Comparing the pre- and post-test scores across each condition revealed a significant decline in performance when children were both pre- and post- tested with questions that placed the color words pre-nominally."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "reading_title": "Examining the placebo effect",
+      "reading_content": "The fact that taking a fake drug can powerfully improve some people's health—the so- called placebo effect—was long considered an embarrassment to the serious practice of pharmacology, but now things have changed. Several years ago, Merck, a global pharmaceutical company, was falling behind its rivals in sales. To make matters worse, patents on five blockbuster drugs were about to expire, which would allow cheaper generic products to flood the market. In interviews with the press, Edward Scolnick, Merck's Research Director, presented his plan to restore the firm to pre-eminence. Key to his strategy was expanding the company’s reach into the anti-depressant market, where Merck had trailed behind, while competitors like Pfizer and GlaxoSmithKline had created some of the best-selling drugs in the world. “To remain dominant in the future,” he told one media company, “we need to dominate the central nervous system.”\nHis plan hinged on the success of an experimental anti-depressant codenamed MK-869. Still in clinical trials, it was a new kind of medication that exploited brain chemistry in innovative ways to promote feelings of well-being. The drug tested extremely well early on, with minimal side effects. Behind the scenes, however, ME-869 was starting to unravel. True, many test subjects treated with the medication felt their hopelessness and anxiety lift, But so did nearly the same number who took a placeho, a look-alike pill made of milk sugar or another inert substance given to.groups of volunteers in subsequent clinical trials to gauge the effectiveness of the real drug by comparison. Ultimately, Merck's venture into the anti-depressant market failed, In the jargon of the industry, the trials crossed the “futility boundary’. ME-869 has not been the only much-awaited medical breakthrough to be undone in recent years by the placebo effect. And it’s not only trials of new drugs that are crossing the futility boundary. Some products that have been on the market for decades are faltering in more recent follow-up tests. It’s not that the old medications are getting weaker, drug developers say, It's as if the placebo effect is somehow getting stronger. The fact that an increasing number cf medications are unable to beat sugar pills has thrown the industry into crisis. The stakes could hardly be higher To win FDA* approval, anew medication must beat placebo in at least two authenticated trials, In today's economy, the fate ofa well-established company can hang on the outcome of a handful of tests. \nWhy are fake pills suddenly overwhelming promising new drugs and established medicines alike? The reasons are only just beginning to be understood. A network of independent researchers is doggedly uncovering the inner workings and potential applications of the placebo effect. A psychiatrist, William Potter, who knew that some patients really do seem to get healthier for reasons that. have more to do with a doctor's empathy than with the contents of a pill, was baffled by the fact that drugs he had been prescribing for years seemed to be struggling to prove their effectiveness. Thinking that a crucial factor may have bean overlooked, Potter combed through his company's database of published and unpublished trials—including those that had been kept secret because of high placebo response. His team aggregated the findings from decades of anti-depressant trials, looking for patterns and trying to see what was changing over time. What they found challenged some of the industry's basic assumptions about its dnag-vetting process, \nAssumption number one was that if a trial were managed correctly, a medication would perform as well or badly in a Phoenix hospital as in a Bangalore clinic, Potter discovered, however, that geographic location alone could determine the outcome. By the late 1990s, for example, the anti-anxiety drug Diazepam was still beating placebo in France and Belgium. But when the drug was tested eeu ou in the U.S., it was likely to fail. Conversely, a similar drug, Prozac, performed better in America than it did in western Europe and South Africa. It was an unsettling prospect: FDA approval could hinge on where the company chose to conduct a trial.\nMistaken assumption number two was that the standard tests used to gauge volunteers’ improvernent in trials yielded consistent results, Potter and his colleagues discovered that ratings by trial observers varied significantly from one testing site to another. It was like finding out that the judges in a tight race each had a different idea about the placement of the finish line.\nAfter some coercion by Potter and others, the National Institute of Health (NIH) focused on the issue in 2000, hosting a three-day conference in Washington, and this conference launched a new wave of placebo research in academic laboratories in the U.S. and Italy that would make significant progress toward solving the mystery of what was happening in clinical trials.\nIn one study last year, Harvard Medical School researcher Ted Kaptchuk devised a clever strategy for testing his volunteers’ response to varying levels of therapeutic ritual. The study focused on a common but painful medical condition that costs more than $40 billion a year worldwide to treat. First, the volunteers were placed Tandomly in one of three groups. One group was simply put on a waiting list; researchers know that some patients get better just because they sign up fora trial. Another group received placebo treatment from a clinician who declined to engage in small talk. Volunteers in the third group cot the same fake treatment from a clinician who asked them questions about symptoms, outlined the causes of the illness, and displayed optimism about their condition. \not surprisingly, the health of those in the third group improved most. In fact, just by participating in the trial, volunteers in this high-interaction group got as much relief ‘as did people taking the two leading prescription drugs for the condition. And the benefits of their “bogus” treatment persisted for weeks afterward, contrary to the belief—widespread in the pharmaceutical industry—that the placebo response is short-lived.\nStudies like this open the door to hybrid treatment strategies that exploit the placebo effect to make real drugs safer and more effective. As Potter says, “To really do the best for your patients, you want the best placebo response plus the best drug response.”",
+      "reading_voice_url": "https://ali-you.github.io/IELTS/reading/level5/voice/lesson2.mp3",
+      "question_count": 2,
+      "true_false_question": {
+        "title": "Read the passage and decide whether each question is True, False or Not Given",
+        "priority": 1,
+        "questions": [
+          {
+            "question": "The activities going on at the MIT campus are like those at any other university.",
+            "answer": "False",
+            "answer_description": ""
+          },
+          {
+            "question": "Harvard and MIT shared a similar approach to education when they were founded.",
+            "answer": "False",
+            "answer_description": ""
+          },
+          {
+            "question": "The school motto was suggested by a former MIT student.",
+            "answer": "Not Given",
+            "answer_description": ""
+          },
+          {
+            "question": "MIT’s logo reflects the belief that intellect and craftsmanship go together.",
+            "answer": "True",
+            "answer_description": ""
+          },
+          {
+            "question": "Silicon Valley companies pay higher salaries to graduates from MIT.",
+            "answer": "Not Given",
+            "answer_description": ""
+          }
+        ]
+      },
+      "gap_question": {
+        "title": "",
+        "priority": 2,
+        "questions": [
+          {
+            "question": "Degree subject: $...$",
+            "answer": "computer science"
+          },
+          {
+            "question": "Competition:  to $...$ the automated construction of a house ",
+            "answer": "program"
+          },
+          {
+            "question": "Special focus on:  the $...$ of robots",
+            "answer": "adaptability"
+          },
+          {
+            "question": "Future plans:  to develop new type of $...$",
+            "answer": "contact lens"
+          }
+        ]
+      }
+    },
+    {
+      "reading_title": "Examining the placebo effect",
+      "reading_content": "The fact that taking a fake drug can powerfully improve some people's health—the so- called placebo effect—was long considered an embarrassment to the serious practice of pharmacology, but now things have changed. Several years ago, Merck, a global pharmaceutical company, was falling behind its rivals in sales. To make matters worse, patents on five blockbuster drugs were about to expire, which would allow cheaper generic products to flood the market. In interviews with the press, Edward Scolnick, Merck's Research Director, presented his plan to restore the firm to pre-eminence. Key to his strategy was expanding the company’s reach into the anti-depressant market, where Merck had trailed behind, while competitors like Pfizer and GlaxoSmithKline had created some of the best-selling drugs in the world. “To remain dominant in the future,” he told one media company, “we need to dominate the central nervous system.”\nHis plan hinged on the success of an experimental anti-depressant codenamed MK-869. Still in clinical trials, it was a new kind of medication that exploited brain chemistry in innovative ways to promote feelings of well-being. The drug tested extremely well early on, with minimal side effects. Behind the scenes, however, ME-869 was starting to unravel. True, many test subjects treated with the medication felt their hopelessness and anxiety lift, But so did nearly the same number who took a placeho, a look-alike pill made of milk sugar or another inert substance given to.groups of volunteers in subsequent clinical trials to gauge the effectiveness of the real drug by comparison. Ultimately, Merck's venture into the anti-depressant market failed, In the jargon of the industry, the trials crossed the “futility boundary’. ME-869 has not been the only much-awaited medical breakthrough to be undone in recent years by the placebo effect. And it’s not only trials of new drugs that are crossing the futility boundary. Some products that have been on the market for decades are faltering in more recent follow-up tests. It’s not that the old medications are getting weaker, drug developers say, It's as if the placebo effect is somehow getting stronger. The fact that an increasing number cf medications are unable to beat sugar pills has thrown the industry into crisis. The stakes could hardly be higher To win FDA* approval, anew medication must beat placebo in at least two authenticated trials, In today's economy, the fate ofa well-established company can hang on the outcome of a handful of tests. \nWhy are fake pills suddenly overwhelming promising new drugs and established medicines alike? The reasons are only just beginning to be understood. A network of independent researchers is doggedly uncovering the inner workings and potential applications of the placebo effect. A psychiatrist, William Potter, who knew that some patients really do seem to get healthier for reasons that. have more to do with a doctor's empathy than with the contents of a pill, was baffled by the fact that drugs he had been prescribing for years seemed to be struggling to prove their effectiveness. Thinking that a crucial factor may have bean overlooked, Potter combed through his company's database of published and unpublished trials—including those that had been kept secret because of high placebo response. His team aggregated the findings from decades of anti-depressant trials, looking for patterns and trying to see what was changing over time. What they found challenged some of the industry's basic assumptions about its dnag-vetting process, \nAssumption number one was that if a trial were managed correctly, a medication would perform as well or badly in a Phoenix hospital as in a Bangalore clinic, Potter discovered, however, that geographic location alone could determine the outcome. By the late 1990s, for example, the anti-anxiety drug Diazepam was still beating placebo in France and Belgium. But when the drug was tested eeu ou in the U.S., it was likely to fail. Conversely, a similar drug, Prozac, performed better in America than it did in western Europe and South Africa. It was an unsettling prospect: FDA approval could hinge on where the company chose to conduct a trial.\nMistaken assumption number two was that the standard tests used to gauge volunteers’ improvernent in trials yielded consistent results, Potter and his colleagues discovered that ratings by trial observers varied significantly from one testing site to another. It was like finding out that the judges in a tight race each had a different idea about the placement of the finish line.\nAfter some coercion by Potter and others, the National Institute of Health (NIH) focused on the issue in 2000, hosting a three-day conference in Washington, and this conference launched a new wave of placebo research in academic laboratories in the U.S. and Italy that would make significant progress toward solving the mystery of what was happening in clinical trials.\nIn one study last year, Harvard Medical School researcher Ted Kaptchuk devised a clever strategy for testing his volunteers’ response to varying levels of therapeutic ritual. The study focused on a common but painful medical condition that costs more than $40 billion a year worldwide to treat. First, the volunteers were placed Tandomly in one of three groups. One group was simply put on a waiting list; researchers know that some patients get better just because they sign up fora trial. Another group received placebo treatment from a clinician who declined to engage in small talk. Volunteers in the third group cot the same fake treatment from a clinician who asked them questions about symptoms, outlined the causes of the illness, and displayed optimism about their condition. \not surprisingly, the health of those in the third group improved most. In fact, just by participating in the trial, volunteers in this high-interaction group got as much relief ‘as did people taking the two leading prescription drugs for the condition. And the benefits of their “bogus” treatment persisted for weeks afterward, contrary to the belief—widespread in the pharmaceutical industry—that the placebo response is short-lived.\nStudies like this open the door to hybrid treatment strateqies that exploit the placebo effect to make real drugs safer and more effective. As Potter says, \"To really do the best for your patients, you want the best placebo response plus the best drug response.”",
+      "question_count": 1,
+      "true_false_question": {
+        "title": "Read the passage and decide whether each question is True, False or Not Given",
+        "priority": 1,
+        "questions": [
+          {
+            "question": "The activities going on at the MIT campus are like those at any other university.",
+            "answer": "False",
+            "answer_description": ""
+          },
+          {
+            "question": "Harvard and MIT shared a similar approach to education when they were founded.",
+            "answer": "False",
+            "answer_description": ""
+          },
+          {
+            "question": "The school motto was suggested by a former MIT student.",
+            "answer": "Not Given",
+            "answer_description": ""
+          },
+          {
+            "question": "MIT’s logo reflects the belief that intellect and craftsmanship go together.",
+            "answer": "True",
+            "answer_description": ""
+          },
+          {
+            "question": "Silicon Valley companies pay higher salaries to graduates from MIT.",
+            "answer": "Not Given",
+            "answer_description": ""
+          }
+        ]
+      }
+    },
+    {
+      "reading_title": "Examining the placebo effect",
+      "reading_content": "The fact that taking a fake drug can powerfully improve some people's health—the so- called placebo effect—was long considered an embarrassment to the serious practice of pharmacology, but now things have changed. Several years ago, Merck, a global pharmaceutical company, was falling behind its rivals in sales. To make matters worse, patents on five blockbuster drugs were about to expire, which would allow cheaper generic products to flood the market. In interviews with the press, Edward Scolnick, Merck's Research Director, presented his plan to restore the firm to pre-eminence. Key to his strategy was expanding the company’s reach into the anti-depressant market, where Merck had trailed behind, while competitors like Pfizer and GlaxoSmithKline had created some of the best-selling drugs in the world. “To remain dominant in the future,” he told one media company, “we need to dominate the central nervous system.”\nHis plan hinged on the success of an experimental anti-depressant codenamed MK-869. Still in clinical trials, it was a new kind of medication that exploited brain chemistry in innovative ways to promote feelings of well-being. The drug tested extremely well early on, with minimal side effects. Behind the scenes, however, ME-869 was starting to unravel. True, many test subjects treated with the medication felt their hopelessness and anxiety lift, But so did nearly the same number who took a placeho, a look-alike pill made of milk sugar or another inert substance given to.groups of volunteers in subsequent clinical trials to gauge the effectiveness of the real drug by comparison. Ultimately, Merck's venture into the anti-depressant market failed, In the jargon of the industry, the trials crossed the “futility boundary’. ME-869 has not been the only much-awaited medical breakthrough to be undone in recent years by the placebo effect. And it’s not only trials of new drugs that are crossing the futility boundary. Some products that have been on the market for decades are faltering in more recent follow-up tests. It’s not that the old medications are getting weaker, drug developers say, It's as if the placebo effect is somehow getting stronger. The fact that an increasing number cf medications are unable to beat sugar pills has thrown the industry into crisis. The stakes could hardly be higher To win FDA* approval, anew medication must beat placebo in at least two authenticated trials, In today's economy, the fate ofa well-established company can hang on the outcome of a handful of tests. \nWhy are fake pills suddenly overwhelming promising new drugs and established medicines alike? The reasons are only just beginning to be understood. A network of independent researchers is doggedly uncovering the inner workings and potential applications of the placebo effect. A psychiatrist, William Potter, who knew that some patients really do seem to get healthier for reasons that. have more to do with a doctor's empathy than with the contents of a pill, was baffled by the fact that drugs he had been prescribing for years seemed to be struggling to prove their effectiveness. Thinking that a crucial factor may have bean overlooked, Potter combed through his company's database of published and unpublished trials—including those that had been kept secret because of high placebo response. His team aggregated the findings from decades of anti-depressant trials, looking for patterns and trying to see what was changing over time. What they found challenged some of the industry's basic assumptions about its dnag-vetting process, \nAssumption number one was that if a trial were managed correctly, a medication would perform as well or badly in a Phoenix hospital as in a Bangalore clinic, Potter discovered, however, that geographic location alone could determine the outcome. By the late 1990s, for example, the anti-anxiety drug Diazepam was still beating placebo in France and Belgium. But when the drug was tested eeu ou in the U.S., it was likely to fail. Conversely, a similar drug, Prozac, performed better in America than it did in western Europe and South Africa. It was an unsettling prospect: FDA approval could hinge on where the company chose to conduct a trial.\nMistaken assumption number two was that the standard tests used to gauge volunteers’ improvernent in trials yielded consistent results, Potter and his colleagues discovered that ratings by trial observers varied significantly from one testing site to another. It was like finding out that the judges in a tight race each had a different idea about the placement of the finish line.\nAfter some coercion by Potter and others, the National Institute of Health (NIH) focused on the issue in 2000, hosting a three-day conference in Washington, and this conference launched a new wave of placebo research in academic laboratories in the U.S. and Italy that would make significant progress toward solving the mystery of what was happening in clinical trials.\nIn one study last year, Harvard Medical School researcher Ted Kaptchuk devised a clever strategy for testing his volunteers’ response to varying levels of therapeutic ritual. The study focused on a common but painful medical condition that costs more than $40 billion a year worldwide to treat. First, the volunteers were placed Tandomly in one of three groups. One group was simply put on a waiting list; researchers know that some patients get better just because they sign up fora trial. Another group received placebo treatment from a clinician who declined to engage in small talk. Volunteers in the third group cot the same fake treatment from a clinician who asked them questions about symptoms, outlined the causes of the illness, and displayed optimism about their condition. \not surprisingly, the health of those in the third group improved most. In fact, just by participating in the trial, volunteers in this high-interaction group got as much relief ‘as did people taking the two leading prescription drugs for the condition. And the benefits of their “bogus” treatment persisted for weeks afterward, contrary to the belief—widespread in the pharmaceutical industry—that the placebo response is short-lived.\nStudies like this open the door to hybrid treatment strateqies that exploit the placebo effect to make real drugs safer and more effective. As Potter says, \"To really do the best for your patients, you want the best placebo response plus the best drug response.”",
+      "reading_voice_url": "https://ali-you.github.io/IELTS/reading/level5/voice/lesson2.mp3",
+      "question_count": 0
+    }
+  ]
+}
