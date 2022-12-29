@@ -428,6 +428,37 @@
             "answer_description": ""
           }
         ]
+      },
+      "yes_no_question": {
+        "title": "Read the passage and decide whether each question is TRUE, FALSE or NOT GIVEN",
+        "priority": 1,
+        "questions": [
+          {
+            "question": "The activities going on at the MIT campus are like those at any other university.",
+            "answer": "FALSE",
+            "answer_description": ""
+          },
+          {
+            "question": "Harvard and MIT shared a similar approach to education when they were founded.",
+            "answer": "FALSE",
+            "answer_description": ""
+          },
+          {
+            "question": "The school motto was suggested by a former MIT student.",
+            "answer": "NOT GIVEN",
+            "answer_description": ""
+          },
+          {
+            "question": "MIT’s logo reflects the belief that intellect and craftsmanship go together.",
+            "answer": "TRUE",
+            "answer_description": ""
+          },
+          {
+            "question": "Silicon Valley companies pay higher salaries to graduates from MIT.",
+            "answer": "NOT GIVEN",
+            "answer_description": ""
+          }
+        ]
       }
     },
     {
