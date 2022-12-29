@@ -206,7 +206,7 @@
       },
       "single_choice_question": {
         "title": "Choose the correct letter, A, B, C or D",
-        "priority": 2,
+        "priority": 3,
         "questions": [
           {
             "question": "Which of the following is true of William Potter's research?",
