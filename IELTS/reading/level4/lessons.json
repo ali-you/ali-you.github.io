@@ -364,7 +364,7 @@
       },
       "true_false_question": {
         "title": "Read the passage and decide whether each question is TRUE, FALSE or NOT GIVEN",
-        "priority": 1,
+        "priority": 4,
         "questions": [
           {
             "question": "The activities going on at the MIT campus are like those at any other university.",
@@ -431,7 +431,7 @@
       },
       "yes_no_question": {
         "title": "Read the passage and decide whether each question is TRUE, FALSE or NOT GIVEN",
-        "priority": 1,
+        "priority": 2,
         "questions": [
           {
             "question": "The activities going on at the MIT campus are like those at any other university.",
