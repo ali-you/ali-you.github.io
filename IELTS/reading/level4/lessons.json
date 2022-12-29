@@ -256,6 +256,145 @@
       }
     },
     {
+      "reading_title": "Fake",
+      "reading_content": "The fact that taking a fake drug can powerfully improve some people's health—the so-called placebo effect—was long considered an embarrassment to the serious practice of pharmacology, but now things have changed.\n\nSeveral years ago, Merck, a global pharmaceutical company, was falling behind its rivals in sales. To make matters worse, patents on five blockbuster drugs were about to expire, which would allow cheaper generic products to flood the market. In interviews with the press, Edward Scolnick, Merck's Research Director, presented his plan to restore the firm to pre-eminence. Key to his strategy was expanding the company’s reach into the anti-depressant market, where Merck had trailed behind, while competitors like Pfizer and GlaxoSmithKline had created some of the best-selling drugs in the world. “To remain dominant in the future,” he told one media company, “we need to dominate the central nervous system.”\nHis plan hinged on the success of an experimental anti-depressant codenamed MK-869. Still in clinical trials, it was a new kind of medication that exploited brain chemistry in innovative ways to promote feelings of well-being. The drug tested extremely well early on, with minimal side effects. Behind the scenes, however, MK-869 was starting to unravel. True, many test subjects treated with the medication felt their hopelessness and anxiety lift, But so did nearly the same number who took a placebo, a look-alike pill made of milk sugar or another inert substance given to groups of volunteers in subsequent clinical trials to gauge the effectiveness of the real drug by comparison. Ultimately, Merck's venture into the anti-depressant market failed, In the jargon of the industry, the trials crossed the “futility boundary’.\nMK-869 has not been the only much-awaited medical breakthrough to be undone in recent years by the placebo effect. And it’s not only trials of new drugs that are crossing the futility boundary. Some products that have been on the market for decades are faltering in more recent follow-up tests. It’s not that the old medications are getting weaker, drug developers say, It's as if the placebo effect is somehow getting stronger. The fact that an increasing number of medications are unable to beat sugar pills has thrown the industry into crisis. The stakes could hardly be higher To win FDA approval, a new medication must beat placebo in at least two authenticated trials, In today's economy, the fate of a well-established company can hang on the outcome of a handful of tests.\nWhy are fake pills suddenly overwhelming promising new drugs and established medicines alike? The reasons are only just beginning to be understood. A network of independent researchers is doggedly uncovering the inner workings and potential applications of the placebo effect.\nA psychiatrist, William Potter, who knew that some patients really do seem to get healthier for reasons that. have more to do with a doctor's empathy than with the contents of a pill, was baffled by the fact that drugs he had been prescribing for years seemed to be struggling to prove their effectiveness. Thinking that a crucial factor may have been overlooked, Potter combed through his company's database of published and unpublished trials—including those that had been kept secret because of high placebo response. His team aggregated the findings from decades of anti-depressant trials, looking for patterns and trying to see what was changing over time. What they found challenged some of the industry's basic assumptions about its drug-vetting process.\nAssumption number one was that if a trial were managed correctly, a medication would perform as well or badly in a Phoenix hospital as in a Bangalore clinic, Potter discovered, however, that geographic location alone could determine the outcome. By the late 1990s, for example, the anti-anxiety drug Diazepam was still beating placebo in France and Belgium. But when the drug was tested in the U.S., it was likely to fail. Conversely, a similar drug, Prozac, performed better in America than it did in western Europe and South Africa. It was an unsettling prospect: FDA approval could hinge on where the company chose to conduct a trial.\nMistaken assumption number two was that the standard tests used to gauge volunteers’ improvement in trials yielded consistent results, Potter and his colleagues discovered that ratings by trial observers varied significantly from one testing site to another. It was like finding out that the judges in a tight race each had a different idea about the placement of the finish line.\nAfter some coercion by Potter and others, the National Institute of Health (NIH) focused on the issue in 2000, hosting a three-day conference in Washington, and this conference launched a new wave of placebo research in academic laboratories in the U.S. and Italy that would make significant progress toward solving the mystery of what was happening in clinical trials.\nIn one study last year, Harvard Medical School researcher Ted Kaptchuk devised a clever strategy for testing his volunteers’ response to varying levels of therapeutic ritual. The study focused on a common but painful medical condition that costs more than $40 billion a year worldwide to treat. First, the volunteers were placed Tandomly in one of three groups. One group was simply put on a waiting list; researchers know that some patients get better just because they sign up for a trial. Another group received placebo treatment from a clinician who declined to engage in small talk. Volunteers in the third group got the same fake treatment from a clinician who asked them questions about symptoms, outlined the causes of the illness, and displayed optimism about their condition.\nNot surprisingly, the health of those in the third group improved most. In fact, just by participating in the trial, volunteers in this high-interaction group got as much relief ‘as did people taking the two leading prescription drugs for the condition. And the benefits of their “bogus” treatment persisted for weeks afterward, contrary to the belief—widespread in the pharmaceutical industry—that the placebo response is short-lived.\nStudies like this open the door to hybrid treatment strategies that exploit the placebo effect to make real drugs safer and more effective. As Potter says, “To really do the best for your patients, you want the best placebo response plus the best drug response.”",
+      "question_count": 4,
+      "yes_no_question": {
+        "title": "Do the following statements agree with the claims of the writer?",
+        "priority": 1,
+        "questions": [
+          {
+            "question": "Merck's experience with MK-869 was unique.",
+            "answer": "NO",
+            "answer_description": "MK-869 has not been the only much-awaited medical breakthrough to be undone in recent years by the placebo effect."
+          },
+          {
+            "question": "These days, a small number of unsuccessful test results can ruin a well-established drugs company.",
+            "answer": "YES",
+            "answer_description": "In today's economy, the fate of a well-established company can hang on the outcome of a handful of tests."
+          },
+          {
+            "question": "Some medical conditions are more easily treated by a placebo than others.",
+            "answer": "NOT GIVEN",
+            "answer_description": "Medical conditions are mentioned, but there is nothing about their relative response to a placebo."
+          },
+          {
+            "question": "It was to be expected that the third group in Kaptchuk’s trial would do better than the other two groups.",
+            "answer": "YES",
+            "answer_description": "Not surprisingly, the health of those in the third group improved most."
+          },
+          {
+            "question": "Kaptchuk’s research highlights the fact that combined drug and placebo treatments should be avoided.",
+            "answer": "NO",
+            "answer_description": "Studies like this open the door to hybrid treatment Strategies that exploit the placebo effect to make real drugs safer and more effective. As Potter says, “To really do the best for your patients, you want the best placebo response plus the best drug response.”"
+          }
+        ]
+      },
+      "gap_question": {
+        "title": "",
+        "priority": 2,
+        "questions": [
+          {
+            "question": "Degree subject: $...$",
+            "answer": "computer science"
+          },
+          {
+            "question": "Competition:  to $...$ the automated construction of a house ",
+            "answer": "program"
+          },
+          {
+            "question": "Special focus on:  the $...$ of robots",
+            "answer": "adaptability"
+          },
+          {
+            "question": "Future plans:  to develop new type of $...$",
+            "answer": "contact lens"
+          }
+        ]
+      },
+      "single_choice_question": {
+        "title": "Choose the correct letter, A, B, C or D",
+        "priority": 3,
+        "questions": [
+          {
+            "question": "Which of the following is true of William Potter's research?",
+            "choices": [
+              "It was based on recently developed drugs that he had recommended.",
+              "It included trial results from a range of drugs companies.",
+              "Some of the trial results he investigated had not been made public.",
+              "Some of his findings were not accepted by the drugs industry."
+            ],
+            "answer": "C",
+            "description": "... Potter combed through his company's database of published and unpublished trials—including those that had been kept secret because of high placebo response."
+          },
+          {
+            "question": "What did William Potter's research reveal about the location of drugs trials?",
+            "choices": [
+              "The placebo effect was weakest in the US.",
+              "Results were not consistent around the world.",
+              "Results varied depending on the type of hospital.",
+              "The FDA preferred drugs to be tested in different countries,"
+            ],
+            "answer": "B",
+            "description": "Potter discovered, however, that geographic location alone could determine the outcome."
+          },
+          {
+            "question": "hat does the tight race refer to in line 80?",
+            "choices": [
+              "the standard tests",
+              "consistent results",
+              "ratings by trial observers",
+              "testing sites"
+            ],
+            "answer": "A",
+            "description": "Judges are being compared to trial observers, and both assess the results of something. In the case of judges, it is who crossed the finish line first in a race. In the case of trial observers, it is the level of improvement among volunteers in standard tests. A tight race is one where the participants finish very close together, making it hard to say who has won."
+          },
+          {
+            "question": "What significant discovery was made by Ted Kaptchuk?",
+            "choices": [
+              "The effects of a placebo can last longer than previously thought.",
+              "Patients’ health can improve while waiting to undergo a trial.",
+              "Patients respond better to a placebo if they are treated by the same clinician throughout the trial.",
+              "Those conducting a placebo trial need to know the subjects’ disorder well."
+            ],
+            "answer": "A",
+            "description": "And the benefits of their “bogus” treatment persisted for weeks afterward, contrary to the belief—widespread in the pharmaceutical industry—that the placebo response is short-lived."
+          }
+        ]
+      },
+      "true_false_question": {
+        "title": "Read the passage and decide whether each question is True, False or Not Given",
+        "priority": 1,
+        "questions": [
+          {
+            "question": "The activities going on at the MIT campus are like those at any other university.",
+            "answer": "False",
+            "answer_description": "(... there's precious little going on that you would normally see on a university campus.)"
+          },
+          {
+            "question": "Harvard and MIT shared a similar approach to education when they were founded.",
+            "answer": "False",
+            "answer_description": "(While Harvard stuck to the English model of a classical education, with its emphasis on Latin and Greek, MIT looked to the German system of learning based on research and hands-on experimentation.)"
+          },
+          {
+            "question": "The school motto was suggested by a former MIT student.",
+            "answer": "Not Given",
+            "answer_description": "(The motto is mentioned, but we are not told who suggested it.)"
+          },
+          {
+            "question": "MIT’s logo reflects the belief that intellect and craftsmanship go together.",
+            "answer": "True",
+            "answer_description": "(... its logo, which shows a gowned scholar standing beside an ironmonger bearing a hammer and anvil. That symbiosis of intellect and craftsmanship ...)"
+          },
+          {
+            "question": "Silicon Valley companies pay higher salaries to graduates from MIT.",
+            "answer": "Not Given",
+            "answer_description": "(There is nothing in the text about how much MIT graduates are paid in Silicon Valley.)"
+          }
+        ]
+      }
+    },
+    {
       "reading_title": "Examining the placebo effect",
       "reading_content": "The fact that taking a fake drug can powerfully improve some people's health—the so- called placebo effect—was long considered an embarrassment to the serious practice of pharmacology, but now things have changed. Several years ago, Merck, a global pharmaceutical company, was falling behind its rivals in sales. To make matters worse, patents on five blockbuster drugs were about to expire, which would allow cheaper generic products to flood the market. In interviews with the press, Edward Scolnick, Merck's Research Director, presented his plan to restore the firm to pre-eminence. Key to his strategy was expanding the company’s reach into the anti-depressant market, where Merck had trailed behind, while competitors like Pfizer and GlaxoSmithKline had created some of the best-selling drugs in the world. “To remain dominant in the future,” he told one media company, “we need to dominate the central nervous system.”\nHis plan hinged on the success of an experimental anti-depressant codenamed MK-869. Still in clinical trials, it was a new kind of medication that exploited brain chemistry in innovative ways to promote feelings of well-being. The drug tested extremely well early on, with minimal side effects. Behind the scenes, however, ME-869 was starting to unravel. True, many test subjects treated with the medication felt their hopelessness and anxiety lift, But so did nearly the same number who took a placeho, a look-alike pill made of milk sugar or another inert substance given to.groups of volunteers in subsequent clinical trials to gauge the effectiveness of the real drug by comparison. Ultimately, Merck's venture into the anti-depressant market failed, In the jargon of the industry, the trials crossed the “futility boundary’. ME-869 has not been the only much-awaited medical breakthrough to be undone in recent years by the placebo effect. And it’s not only trials of new drugs that are crossing the futility boundary. Some products that have been on the market for decades are faltering in more recent follow-up tests. It’s not that the old medications are getting weaker, drug developers say, It's as if the placebo effect is somehow getting stronger. The fact that an increasing number cf medications are unable to beat sugar pills has thrown the industry into crisis. The stakes could hardly be higher To win FDA* approval, anew medication must beat placebo in at least two authenticated trials, In today's economy, the fate ofa well-established company can hang on the outcome of a handful of tests. \nWhy are fake pills suddenly overwhelming promising new drugs and established medicines alike? The reasons are only just beginning to be understood. A network of independent researchers is doggedly uncovering the inner workings and potential applications of the placebo effect. A psychiatrist, William Potter, who knew that some patients really do seem to get healthier for reasons that. have more to do with a doctor's empathy than with the contents of a pill, was baffled by the fact that drugs he had been prescribing for years seemed to be struggling to prove their effectiveness. Thinking that a crucial factor may have bean overlooked, Potter combed through his company's database of published and unpublished trials—including those that had been kept secret because of high placebo response. His team aggregated the findings from decades of anti-depressant trials, looking for patterns and trying to see what was changing over time. What they found challenged some of the industry's basic assumptions about its dnag-vetting process, \nAssumption number one was that if a trial were managed correctly, a medication would perform as well or badly in a Phoenix hospital as in a Bangalore clinic, Potter discovered, however, that geographic location alone could determine the outcome. By the late 1990s, for example, the anti-anxiety drug Diazepam was still beating placebo in France and Belgium. But when the drug was tested eeu ou in the U.S., it was likely to fail. Conversely, a similar drug, Prozac, performed better in America than it did in western Europe and South Africa. It was an unsettling prospect: FDA approval could hinge on where the company chose to conduct a trial.\nMistaken assumption number two was that the standard tests used to gauge volunteers’ improvernent in trials yielded consistent results, Potter and his colleagues discovered that ratings by trial observers varied significantly from one testing site to another. It was like finding out that the judges in a tight race each had a different idea about the placement of the finish line.\nAfter some coercion by Potter and others, the National Institute of Health (NIH) focused on the issue in 2000, hosting a three-day conference in Washington, and this conference launched a new wave of placebo research in academic laboratories in the U.S. and Italy that would make significant progress toward solving the mystery of what was happening in clinical trials.\nIn one study last year, Harvard Medical School researcher Ted Kaptchuk devised a clever strategy for testing his volunteers’ response to varying levels of therapeutic ritual. The study focused on a common but painful medical condition that costs more than $40 billion a year worldwide to treat. First, the volunteers were placed Tandomly in one of three groups. One group was simply put on a waiting list; researchers know that some patients get better just because they sign up fora trial. Another group received placebo treatment from a clinician who declined to engage in small talk. Volunteers in the third group cot the same fake treatment from a clinician who asked them questions about symptoms, outlined the causes of the illness, and displayed optimism about their condition. \not surprisingly, the health of those in the third group improved most. In fact, just by participating in the trial, volunteers in this high-interaction group got as much relief ‘as did people taking the two leading prescription drugs for the condition. And the benefits of their “bogus” treatment persisted for weeks afterward, contrary to the belief—widespread in the pharmaceutical industry—that the placebo response is short-lived.\nStudies like this open the door to hybrid treatment strateqies that exploit the placebo effect to make real drugs safer and more effective. As Potter says, \"To really do the best for your patients, you want the best placebo response plus the best drug response.”",
       "question_count": 1,
