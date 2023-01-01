@@ -351,11 +351,15 @@
         "priority": 2,
         "questions": [
           {
-            "question": "Degree subject: $...$",
+            "question": "Degree subject: $...$ sokole boz sfjeiojf $...$ fweohfihw",
             "answers": [
               {
                 "answer": "computer science",
                 "answer_description": ""
+              },
+              {
+                "answer": "Fuck",
+                "answer_description": "fuck for you"
               }
             ]
           },
