@@ -474,41 +474,46 @@
         ]
       },
       "matching_question": {
-        "title": "Read Questions and quickly check what information you need for each gap. Then, using the title to find the right part of the passage, answer the questions.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\n\nChristopher Merrill – student at MIT",
+        "title": "Complete the summary using the list of wards below.\n\nMerck and MK-869",
+        "choices": [
+          "activity",
+          "prices",
+          "success",
+          "patient",
+          "tests",
+          "diseases",
+          "symptoms",
+          "competition",
+          "criticism"
+        ],
         "priority": 5,
         "questions": [
           {
-            "question": "Degree subject: $...$",
+            "question": "As a result of concerns about increasing $...$ in the drugs industry, the pharmaceutical company Merck decided to Increase its $...$ in the anti-depressant market. The development of the drug MK-869 was seen as the way forward.",
             "answers": [
               {
-                "answer": "computer science",
+                "answer": "competition",
+                "answer_description": ""
+              },
+              {
+                "answer": "activity",
                 "answer_description": ""
               }
             ]
           },
           {
-            "question": "Competition:  to $...$ the automated construction of a house ",
+            "question": "Initially, MK-869 had some $...$ , but later trials revealed a different picture. Although key $...$ could be treated with the drug, a sugar pill was proving equally effective. In the end, the $...$ indicated that it was pointless continuing with the development of the drug.",
             "answers": [
               {
-                "answer": "program",
+                "answer": "success",
                 "answer_description": ""
-              }
-            ]
-          },
-          {
-            "question": "Special focus on:  the $...$ of robots",
-            "answers": [
+              },
               {
-                "answer": "adaptability",
+                "answer": "symptoms",
                 "answer_description": ""
-              }
-            ]
-          },
-          {
-            "question": "Future plans:  to develop new type of $...$",
-            "answers": [
+              },
               {
-                "answer": "contact lens",
+                "answer": "tests",
                 "answer_description": ""
               }
             ]
