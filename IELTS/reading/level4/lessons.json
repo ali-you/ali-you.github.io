@@ -319,132 +319,46 @@
     {
       "reading_title": "The history of the poster",
       "reading_content": "The first posters were known as 'broadsides' and were used for public and commercial announcements. Printed on one side only using metal type, they were quickly and crudely produced in large quantities. As they were meant to be read at a distance, they required large lettering.\nThere were a number of negative aspects of large metal type. It was expensive, required a large amount of storage space, and was extremely heavy. If a printer did have a collection of large metal type, it was likely that there were not enough letters, So printers did their best by mixing and matching styles.\nCommercial pressure for the large type was answered with the invention of a system for wood-type production. In 1827, Darius Wells invented a special wood drill - the lateral router - capable of cutting letters on wood blacks, The router was used in combination with William Leavenworth's pantograph (1834) to create decorative wooden letters of all shapes and sizes, The first posters began to appear, but they had little colour and design; often wooden type was mixed with metal type in a conglomeration of styles.\nA major development in poster design was the application of lithography, invented by Alois Senefelder in 1796, which allowed artists to hand-draw letters, opening the field of type design to endless styles. The method involved drawing with a greasy crayon onto finely surfaced Bavarian limestone and offsetting that image onto paper, This direct process captured the artist's true intention: however, the final printed image was In reverse. The images and lettering needed to be drawn backwards often reflected in a mirror or traced on transfer paper. \nAs a result of this technical difficulty, the invention of the lithographic process had little impact on posters until the 1880s, when Jules Cheret came up with his 'three-stone lithographic process'. This gave artists the opportunity to experiment with a wide spectrum of colours. Although the process was difficult, the result was remarkable, with nuances of colour impossible in other media even to this day. The ability to mix words and images in such an attractive and economical format finally made the lithographic poster a powerful innovation.\nStarting in the 1870s, posters became the main vehicle for advertising prior to the magazine era and the dominant means of mass communication in the rapidly growing cities of Europe and America, Yet in the streets of Paris, Milan and Berlin, these artistic prints were so popular that they were stolen off walls almost as soon as they were hung. Cheret, later known as 'the father of the modern poster', organised the first exhibition of posters In 1884 and two years later published the first book on poster art. He quickly took advantage of the public interest by arranging for artists to create posters, at a reduced size, that were suitable for in-home display.\nThanks to Cheret. the poster slowly took hold in other countries in the 1890s and came to celebrate each society's unique cultural institutions: the café in France, the opera and fashion in Italy, festivals in Spain, literature in Holland, and trade fairs in Germany. The first poster shows were held in Great Britain and Italy in 1894, Germany in 1896, and Russia in 1897. The most important poster show ever, to many observers, was held in Reims, France. in 1896 and featured an unbelievable 1.690 posters arranged by country.\nIn the early 20th century, the poster continued to play a large communication role and to go through a range of styles. By the 1950s, however, it had begun to share the spotlight with other media, mainly radio and print. By this time, most posters were printed using the mass production technique of photo offset, which resulted in the familiar dot pattern seen in newspapers and magazines. In addition, the use of photography in posters, begun in Russia in the twenties, started to become as common as illustration. \nIn the late fifties, a new graphic style that had a strong reliance on typographic elements in black and white appeared. The new style came to be known as the International Typographic Style. it made use of a mathematical grid, strict graphic rules, and black-and-white photography to provide a clear and logical structure. It became the predominant style in the world in the 1970s and continues to exert its influence today.\nIt was perfectly suited to the increasingly international post-war marketplace, where there was a strong demand for clarity. This meant that the accessibility of words and symbols had to be taken into account. Corporations wanted international identification, and events such as the Olympics called for universal solutions, which the Typographic Style could provide.\nHowever, the International Typographic Style began to lose its energy in the late 1970s. Many criticised It for being cold, formal, and dogmatic. A young teacher in Basel, Wolfgang Weingart, experimented with the offset printing process to produce posters that appeared complex and chaotic, playful and spontaneous - all in stark contrast to what had gone before, Weingart's liberation of typography was an important foundation for several new styles. These ranged from Memphis and Retro to the advances now being made in computer graphics.",
-      "question_count": 3,
-      "yes_no_question": {
-        "title": "Do the following statements agree with the claims of the writer?",
+      "question_count": 1,
+      "gap_question": {
+        "title": "Complete the table below.\nChoose NO MORE THAN THREE WORDS from the passage for each answer.\nEarly Printing Methods",
         "priority": 1,
         "questions": [
           {
-            "question": "Merck's experience with MK-869 was unique.",
-            "answer": "NO",
-            "answer_description": "MK-869 has not been the only much-awaited medical breakthrough to be undone in recent years by the placebo effect."
-          },
-          {
-            "question": "These days, a small number of unsuccessful test results can ruin a well-established drugs company.",
-            "answer": "YES",
-            "answer_description": "In today's economy, the fate of a well-established company can hang on the outcome of a handful of tests."
-          },
-          {
-            "question": "Some medical conditions are more easily treated by a placebo than others.",
-            "answer": "NOT GIVEN",
-            "answer_description": "Medical conditions are mentioned, but there is nothing about their relative response to a placebo."
-          },
-          {
-            "question": "It was to be expected that the third group in Kaptchuk’s trial would do better than the other two groups.",
-            "answer": "YES",
-            "answer_description": "Not surprisingly, the health of those in the third group improved most."
-          },
-          {
-            "question": "Kaptchuk’s research highlights the fact that combined drug and placebo treatments should be avoided.",
-            "answer": "NO",
-            "answer_description": "Studies like this open the door to hybrid treatment Strategies that exploit the placebo effect to make real drugs safer and more effective. As Potter says, “To really do the best for your patients, you want the best placebo response plus the best drug response.”"
-          }
-        ]
-      },
-      "matching_question": {
-        "title": "Complete the summary using the list of wards below.\n\nMerck and MK-869",
-        "choices": [
-          "activity",
-          "prices",
-          "success",
-          "patient",
-          "tests",
-          "diseases",
-          "symptoms",
-          "competition",
-          "criticism"
-        ],
-        "priority": 2,
-        "questions": [
-          {
-            "question": "As a result of concerns about increasing $...$ in the drugs industry, the pharmaceutical company Merck decided to Increase its $...$ in the anti-depressant market. The development of the drug MK-869 was seen as the way forward.",
+            "question": "Metal type features:\n⚪ produced large print\nMetal type problems:\n⚫ cost, weight and $...$ difficulties\n⚫ mixed styles",
             "answers": [
               {
-                "answer": "competition",
-                "answer_description": "... Merck, a global pharmaceutical company, was failing behind its rivals in sales. To make matters worse, patents on five blockbuster drugs were about to expire, which would allow cheaper generic products to flood the market."
-              },
-              {
-                "answer": "activity",
-                "answer_description": "Key to his strategy was expanding the company's reach into the ant-depressant market ..."
+                "answer": "storage",
+                "alternative_answer": "storage space",
+                "answer_description": "_storage space_ is correct answer too"
               }
             ]
           },
           {
-            "question": "Initially, MK-869 had some $...$ , but later trials revealed a different picture. Although key $...$ could be treated with the drug, a sugar pill was proving equally effective. In the end, the $...$ indicated that it was pointless continuing with the development of the drug.",
+            "question": "Wood type features:\n⚪ Darius's wood drill used in connection with another $...$\n⚪ produced a range of letters\nWood type problems:\n⚫ lacked both $...$\n⚫ mixed type",
             "answers": [
               {
-                "answer": "success",
-                "answer_description": "The drug tested extremely well early on ..."
+                "answer": "invention"
               },
               {
-                "answer": "symptoms",
-                "answer_description": "True, many test subjects treated with the medication felt their hopelessness and anxiety lift."
-              },
-              {
-                "answer": "tests",
-                "answer_description": "Ultimately, Merck's venture into the anti-depressant market failed. In the jargon of the industry, the trials crossed the “futility boundary”"
+                "answer": "colour and design",
+                "alternative_answer": "design and colour",
+                "answer_description": "_design and colour_ is correct answer too\n(_color_ for American spelling)"
               }
             ]
-          }
-        ]
-      },
-      "single_choice_question": {
-        "title": "Choose the correct letter, A, B, C or D",
-        "priority": 3,
-        "questions": [
-          {
-            "question": "Which of the following is true of William Potter's research?",
-            "choices": [
-              "It was based on recently developed drugs that he had recommended.",
-              "It included trial results from a range of drugs companies.",
-              "Some of the trial results he investigated had not been made public.",
-              "Some of his findings were not accepted by the drugs industry."
-            ],
-            "answer": "C",
-            "description": "... Potter combed through his company's database of published and unpublished trials—including those that had been kept secret because of high placebo response."
           },
           {
-            "question": "What did William Potter's research reveal about the location of drugs trials?",
-            "choices": [
-              "The placebo effect was weakest in the US.",
-              "Results were not consistent around the world.",
-              "Results varied depending on the type of hospital.",
-              "The FDA preferred drugs to be tested in different countries,"
-            ],
-            "answer": "B",
-            "description": "Potter discovered, however, that geographic location alone could determine the outcome."
-          },
-          {
-            "question": "hat does the tight race refer to in line 80?",
-            "choices": [
-              "the standard tests",
-              "consistent results",
-              "ratings by trial observers",
-              "testing sites"
-            ],
-            "answer": "A",
-            "description": "Judges are being compared to trial observers, and both assess the results of something. In the case of judges, it is who crossed the finish line first in a race. In the case of trial observers, it is the level of improvement among volunteers in standard tests. A tight race is one where the participants finish very close together, making it hard to say who has won."
-          },
-          {
-            "question": "What significant discovery was made by Ted Kaptchuk?",
-            "choices": [
-              "The effects of a placebo can last longer than previously thought.",
-              "Patients’ health can improve while waiting to undergo a trial.",
-              "Patients respond better to a placebo if they are treated by the same clinician throughout the trial.",
-              "Those conducting a placebo trial need to know the subjects’ disorder well."
-            ],
-            "answer": "A",
-            "description": "And the benefits of their “bogus” treatment persisted for weeks afterward, contrary to the belief—widespread in the pharmaceutical industry—that the placebo response is short-lived."
+            "question": "Lithography features:\n⚪ letters drawn by hands\n⚪ design tool a $...$\nLithography problems:\n⚫ had to use a mirror or $...$ to achieve correct image",
+            "answers": [
+              {
+                "answer": "crayon",
+                "alternative_answer": "greasy crayon",
+                "answer_description": "_greasy crayon_ is correct answer too"
+              },
+              {
+                "answer": "transfer paper"
+              }
+            ]
           }
         ]
       }
@@ -485,7 +399,7 @@
         ]
       },
       "gap_question": {
-        "title": "Read Questions and quickly check what information you need for each gap. Then, using the title to find the right part of the passage, answer the questions.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\n\nChristopher Merrill – student at MIT",
+        "title": "Complete the table below.\nChoose NO MORE THAN THREE WORDS from the passage for each answer.\nEarly Printing Methods",
         "priority": 2,
         "questions": [
           {
