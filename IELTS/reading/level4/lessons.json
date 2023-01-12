@@ -342,7 +342,7 @@
         "priority": 1,
         "questions": [
           {
-            "question": "Metal type features:\n⚪ produced large print\nMetal type problems:\n⚫ cost, weight and $...$ difficulties\n⚫ mixed styles",
+            "question": "Metal type features: \n ⚪ produced large print \n Metal type problems: \n ⚫ cost, weight and $...$ difficulties \n ⚫ mixed styles",
             "answers": [
               {
                 "answer": [
@@ -353,7 +353,7 @@
             ]
           },
           {
-            "question": "Wood type features:\n⚪ Darius's wood drill used in connection with another $...$ \n⚪ produced a range of letters\nWood type problems:\n⚫ lacked both $...$ \n⚫ mixed type",
+            "question": "Wood type features: \n ⚪ Darius's wood drill used in connection with another $...$ \n ⚪ produced a range of letters \n Wood type problems: \n ⚫ lacked both $...$ \n ⚫ mixed type",
             "answers": [
               {
                 "answer": [
@@ -372,7 +372,7 @@
             ]
           },
           {
-            "question": "Lithography features:\n⚪ letters drawn by hands\n⚪ design tool a $...$ \nLithography problems:\n⚫ had to use a mirror or $...$ to achieve correct image",
+            "question": "Lithography features: \n ⚪ letters drawn by hands \n ⚪ design tool a $...$ \n Lithography problems: \n ⚫ had to use a mirror or $...$ to achieve correct image",
             "answers": [
               {
                 "answer": [
