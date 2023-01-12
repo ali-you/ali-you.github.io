@@ -43,7 +43,9 @@
             "question": "Degree subject: $...$",
             "answers": [
               {
-                "answer": ["computer science"]
+                "answer": [
+                  "computer science"
+                ]
               }
             ]
           },
@@ -51,7 +53,9 @@
             "question": "Competition:  to $...$ the automated construction of a house ",
             "answers": [
               {
-                "answer": ["program"]
+                "answer": [
+                  "program"
+                ]
               }
             ]
           },
@@ -59,7 +63,9 @@
             "question": "Special focus on:  the $...$ of robots",
             "answers": [
               {
-                "answer": ["adaptability"]
+                "answer": [
+                  "adaptability"
+                ]
               }
             ]
           },
@@ -67,7 +73,9 @@
             "question": "Future plans:  to develop new type of $...$",
             "answers": [
               {
-                "answer": ["contact lens"]
+                "answer": [
+                  "contact lens"
+                ]
               }
             ]
           }
@@ -87,7 +95,9 @@
             "question": "Children learn many words quite quickly, but their ability to learn colour words takes longer than expected. In fact, despite $...$ .",
             "answers": [
               {
-                "answer": ["training trials"],
+                "answer": [
+                  "training trials"
+                ],
                 "answer_description": "Even after hundreds of training trials, children as old as four may still end up being unable ta accurately sort objects by color."
               }
             ]
@@ -96,7 +106,10 @@
             "question": "many four-year-olds still struggle to arrange objects into colour categories. Scientists have hypothesised that this is due to the $...$ of the adjectives in a phrase or sentence and the challenges this presents.",
             "answers": [
               {
-                "answer": ["position", "pre-nominal position"],
+                "answer": [
+                  "position",
+                  "pre-nominal position"
+                ],
                 "answer_description": "In the speech thar adults direct at children, color adjectives occur pre-nominally (“blue cup”) around 70 percent of the time. This suggests that most of what children hear from adults will, in fact, be unhelpful in learning what color words refer to."
               }
             ]
@@ -105,7 +118,10 @@
             "question": "While objects consist of a number of $...$ that can be used to recognise other similar objects,",
             "answers": [
               {
-                "answer": ["features", "cues"],
+                "answer": [
+                  "features",
+                  "cues"
+                ],
                 "answer_description": "Chairs have features, such as arms and legs and backs, that are combined to some degree in a systematic way; they turn up in a range of chairs of different shapes, sizes, and ages. It could be said that children learn to narrow down the set of cues that make up a chair..."
               }
             ]
@@ -114,7 +130,10 @@
             "question": "the $...$ of a colour cannot be developed using the same approach.",
             "answers": [
               {
-                "answer": ["meaning", "concept"],
+                "answer": [
+                  "meaning",
+                  "concept"
+                ],
                 "answer_description": "... in this way they learn the concept associated with that word ... there is nothing systematic about color words to help cue their meaning."
               }
             ]
@@ -123,7 +142,9 @@
             "question": "As a consequence, the way colour words tend to be used in English may be $...$ to children.",
             "answers": [
               {
-                "answer": ["unhelpful"],
+                "answer": [
+                  "unhelpful"
+                ],
                 "answer_description": "In the speech that adults direct at children, color adjectives occur pre-nominally (“blue cup”) around 70 percent of the time. This Suggests that most of what children hear from adults will, in fact, be unhelpful in learning what color words refer to."
               }
             ]
@@ -324,7 +345,10 @@
             "question": "Metal type features:\n⚪ produced large print\nMetal type problems:\n⚫ cost, weight and $...$ difficulties\n⚫ mixed styles",
             "answers": [
               {
-                "answer": ["storage", "storage space"]
+                "answer": [
+                  "storage",
+                  "storage space"
+                ]
               }
             ]
           },
@@ -332,10 +356,17 @@
             "question": "Wood type features:\n⚪ Darius's wood drill used in connection with another $...$ \n⚪ produced a range of letters\nWood type problems:\n⚫ lacked both $...$ \n⚫ mixed type",
             "answers": [
               {
-                "answer": ["invention"]
+                "answer": [
+                  "invention"
+                ]
               },
               {
-                "answer": ["colour and design", "design and colour","color and design", "design and color"],
+                "answer": [
+                  "colour and design",
+                  "design and colour",
+                  "color and design",
+                  "design and color"
+                ],
                 "answer_description": "_color_ for American spelling and _colour_ for British spelling"
               }
             ]
@@ -344,9 +375,10 @@
             "question": "Lithography features:\n⚪ letters drawn by hands\n⚪ design tool a $...$ \nLithography problems:\n⚫ had to use a mirror or $...$ to achieve correct image",
             "answers": [
               {
-                "answer": "crayon",
-                "alternative_answer": "greasy crayon",
-                "answer_description": "_greasy crayon_ is correct answer too"
+                "answer": [
+                  "crayon",
+                  "greasy crayon"
+                ]
               },
               {
                 "answer": "transfer paper"
@@ -399,11 +431,15 @@
             "question": "Degree subject: $...$ sokole boz sfjeiojf $...$ fweohfihw",
             "answers": [
               {
-                "answer": ["computer science"],
+                "answer": [
+                  "computer science"
+                ],
                 "answer_description": ""
               },
               {
-                "answer": ["Fuck"],
+                "answer": [
+                  "Fuck"
+                ],
                 "answer_description": "fuck for you"
               }
             ]
@@ -412,7 +448,9 @@
             "question": "Competition:  to $...$ the automated construction of a house ",
             "answers": [
               {
-                "answer": ["program"],
+                "answer": [
+                  "program"
+                ],
                 "answer_description": ""
               }
             ]
@@ -421,7 +459,9 @@
             "question": "Special focus on:  the $...$ of robots",
             "answers": [
               {
-                "answer": ["adaptability"],
+                "answer": [
+                  "adaptability"
+                ],
                 "answer_description": ""
               }
             ]
@@ -430,7 +470,9 @@
             "question": "Future plans:  to develop new type of $...$",
             "answers": [
               {
-                "answer": ["contact lens"],
+                "answer": [
+                  "contact lens"
+                ],
                 "answer_description": ""
               }
             ]
