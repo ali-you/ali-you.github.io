@@ -100,7 +100,8 @@
             "question": "many four-year-olds still struggle to arrange objects into colour categories. Scientists have hypothesised that this is due to the $...$ of the adjectives in a phrase or sentence and the challenges this presents.",
             "answers": [
               {
-                "answer": "(pre-nominal) position",
+                "answer": "position",
+                "alternative_answer": "pre-nominal position",
                 "answer_description": "In the speech thar adults direct at children, color adjectives occur pre-nominally (“blue cup”) around 70 percent of the time. This suggests that most of what children hear from adults will, in fact, be unhelpful in learning what color words refer to."
               }
             ]
@@ -109,7 +110,8 @@
             "question": "While objects consist of a number of $...$ that can be used to recognise other similar objects,",
             "answers": [
               {
-                "answer": "features/cues",
+                "answer": "features",
+                "alternative_answer": "cues",
                 "answer_description": "Chairs have features, such as arms and legs and backs, that are combined to some degree in a systematic way; they turn up in a range of chairs of different shapes, sizes, and ages. It could be said that children learn to narrow down the set of cues that make up a chair..."
               }
             ]
@@ -118,7 +120,8 @@
             "question": "the $...$ of a colour cannot be developed using the same approach.",
             "answers": [
               {
-                "answer": "meaning/concept",
+                "answer": "meaning",
+                "alternative_answer": "concept",
                 "answer_description": "... in this way they learn the concept associated with that word ... there is nothing systematic about color words to help cue their meaning."
               }
             ]
