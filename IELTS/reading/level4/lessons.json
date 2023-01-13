@@ -251,7 +251,7 @@
         "priority": 2,
         "questions": [
           {
-            "question": "As a result of concerns about increasing $...$ in the drugs industry, the pharmaceutical company Merck decided to Increase its $...$ in the anti-depressant market. The development of the drug MK-869 was seen as the way forward.",
+            "question": "As a result of concerns about increasing $...$ in the drugs industry, the pharmaceutical company Merck decided to Increase its $...$ in the anti-depressant market. The development of the drug MK-869 was seen as the way forward. Initially, MK-869 had some $...$ , but later trials revealed a different picture. Although key $...$ could be treated with the drug, a sugar pill was proving equally effective. In the end, the $...$ indicated that it was pointless continuing with the development of the drug.",
             "answers": [
               {
                 "answer": "competition",
@@ -260,12 +260,7 @@
               {
                 "answer": "activity",
                 "answer_description": "Key to his strategy was expanding the company's reach into the ant-depressant market ..."
-              }
-            ]
-          },
-          {
-            "question": "Initially, MK-869 had some $...$ , but later trials revealed a different picture. Although key $...$ could be treated with the drug, a sugar pill was proving equally effective. In the end, the $...$ indicated that it was pointless continuing with the development of the drug.",
-            "answers": [
+              },
               {
                 "answer": "success",
                 "answer_description": "The drug tested extremely well early on ..."
@@ -506,6 +501,154 @@
               {
                 "answer": "Mike Petraglia",
                 "answer_description": "... says Petraglia. ‘Whether the eruption of Toba also played a role in the extinction of the Homo erectus-like species is unclear to us.’"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "reading_title": "The new way to be fifth-grader",
+      "reading_content": "I peer over his shoulder at his laptop screen to see the math problem the fifth-grader is pondering. It's a trigonometry problem. Carpenter, a serious-faced ten-year-old, pauses for a second, fidgets, then clicks on “0 degrees.” The computer tells him that he's correct. “It took a while for me to work it out,” he admits sheepishly. The software then generates another problem, followed by another, until eventually, hers done ten in a row.\nLast November, his teacher, Kami Thordarson, began using Khan Academy in her class. It is an educational website on which students can watch some 2,400 videos. The videos are anything but sophisticated. At seven to 14 minutes long, they consist of a voiceover by the site's founder, Salman Khan, chattily describing a mathematical concept or explaining how to solve a problem, while his hand-scribbled formulas and diagrams appear on-screen. As a student, you can review a video as many times as you want, scrolling back several times over puzzling parts and fast-forwarding through the boring bits you already know. Once you've mastered a video, you can move on to the next one.\nInitially, Thordarson thought Khan Academy would merely be a helpful supplement to her normal instruction. But it quickly became far more than that. She is now on her way to “flipping” the way her class works. This involves replacing some: of her lectures with Khan's videos, which students can watch at home. Then in class, they focus on working on the problem areas together. The idea is to invert the normal rhythms of school, so that lectures are viewed in the children's own time and homework is done at school. It sounds weird, Thordarson admits, but this reversal makes sense when you think about it. It is when they are doing homework that students are really grappling with a subject and are most likely to want someone to talk to. And Khan Academy provides teachers with a dashboard application that lets them see the instant a student gets stuck.\nFor years, teachers like Thordarson have complained about the frustrations of teaching to the “middle” of the class. They stand at the whiteboard trying to get 25 or more students to learn at the same pace. Advanced students get bored and tune out, lagging ones get lost and tune out, and pretty soon half the class is not paying attention. Since the rise of personal computers in the 1980s, educators have hoped that technology could save the day by offering lessons tailored to each child. Schools have spent millions of dollars on sophisticated classroom technology, but the effort has been in vain, The one-to-one instruction it requires is, after all, prohibitively expensive. What country can afford such a luxury?\nKhan never intended to overhaul the school curricula and he doesn't have a consistent, comprehensive plan for doing so. Nevertheless, some of his fans believe that he has stumbled onto the solution to education's middle-of-the-class mediocrity. Most notable among them Is Bill Gates, whose foundation has Invested $1.5 million in khan's site. Students have pointed out that Khan is particularly good at explaining all the hidden, small steps in math problems—steps that teachers often gloss over. He has an uncanny ability to inhabit the mind of someone who doesn't already understand something.\nHowever, not all educators are enamoured with Khan and his site. Gary Stager, a long-time educational consultant, and advocate of laptops in classrooms thinks Khan Academy is not innovative at all, The videos and software modules, he contends, are just a high-tech version of the outdated teaching techniques—lecturing and drilling. Schools have become “joyless test-prep factories,” he says, and Khan Academy caters to this dismal trend.\nAs Sylvia Martinez, president of an organization focusing on technology in the classroom, puts it, “The things they're doing are really just rote.” Flipping the classroom isn't an entirely new idea, Martinez says, and she doubts that it would work for the majority of pupils: “I'm sorry, but if they can't understand the lecture in a classroom, they're not going to grasp It better when it's done through a video at home.”\nAnother limitation of Khan's site is that the drilling software can only handle questions where the answers are unambiguously right or wrong, like math or chemistry; Khan has relatively few videos on messier, grey-area subjects like history. Khan and Gates admit there is no easy way to automate the teaching of writing—even though it is just as critical as math.\nEven if Khan is truly liberating students to advance at their own pace, it is not clear that schools will be able to cope. The very concept of grade levels Implies groups of students moving along together at an even pace. So what happens when, using Khan Academy, you wind up with a ten-year-old who has already mastered high-school physics? Khan's programmer, Ben Kamens, has heard from teachers who have seen Khan Academy presentations and loved the Idea but wondered whether they could modify it “to stop students from becoming this advanced.”\nKhan's success has injected him into the heated wars over school reform. Reformers today, by and large, believe student success should be carefully tested, with teachers and principals receiving better pay if their students advance more quickly. In essence, Khan doesn't want to change the way institutions teach; he wants to change how people learn, whether they're in a private school or a public school—or for that matter, whether they're a student or an adult trying to self-educate in Ohio, Brazil, Russia, or India. One member of Khan's staff is spearheading a drive to translate the videos into ten major languages. It's classic start-up logic: do something novel, do it with speed, and the people who love it will find you.",
+      "question_count": 2,
+      "single_choice_question": {
+        "title": "Choose the correct letter, A, B, C or D",
+        "priority": 1,
+        "questions": [
+          {
+            "question": "What do you learn about the student in the first paragraph?",
+            "choices": [
+              "He has not used the maths software before.",
+              "He did not expect his answer to the problem to be correct.",
+              "He was not initially doing the right maths problem.",
+              "He did not immediately know how to solve the maths problem."
+            ],
+            "answer": "D",
+            "description": "“It took a while for me to work it out,” ..."
+          },
+          {
+            "question": "What does the writer say about the content of the Khan Academy videos?",
+            "choices": [
+              "They have been produced in a professional manner.",
+              "They include a mix of verbal and visual features.",
+              "Some of the maths problems are too easy.",
+              "Some of the explanations are too brief."
+            ],
+            "answer": "B",
+            "description": "... they consist of a voiceover by the site's founder, Salman Khan, chattily describing a mathematical concept or explaining how to solve a problem, while his hand-scribbled formulas and diagrams appear on-screen."
+          },
+          {
+            "question": "What does this reversal refer to in line 40?",
+            "choices": [
+              "going back to spending fewer hours in school",
+              "students being asked to explain answers to teachers",
+              "swapping the activities done in the class and at home",
+              "the sudden improvement in students’ maths performance"
+            ],
+            "answer": "C",
+            "description": "This involves replacing some of her lectures with Khan's videos, which students can watch at home."
+          },
+          {
+            "question": "What does the writer say about teaching to the middle of the class?",
+            "choices": [
+              "Teachers become too concerned about weaker students.",
+              "Technology has not until now provided a solution to the problem.",
+              "Educators have been unwilling to deal with the issues.",
+              "Students in this category quickly become bored."
+            ],
+            "answer": "B",
+            "description": "Schools have spent millions of dollars on sophisticated classroom technology, but the effort has been in vain."
+          },
+          {
+            "question": "Students praise Khan's videos because they",
+            "choices": [
+              "show the extent of his mathematical knowledge.",
+              "deal with a huge range of maths problems.",
+              "provide teaching at different ability levels.",
+              "cover details that are often omitted in class."
+            ],
+            "answer": "D",
+            "description": "... steps that teachers often gloss over."
+          }
+        ]
+      },
+      "yes_no_question": {
+        "title": "Do the following statements agree with the claims of the writer in the reading passage?",
+        "priority": 2,
+        "questions": [
+          {
+            "question": "Thordarson’s first impressions of how she would use Khan Academy turned out to be wrong.",
+            "answer": "YES",
+            "answer_description": "Initially, Thordarson thought Khan Academy would merely be a helpful supplement to her normal instruction. But it quickly became far more than that."
+          },
+          {
+            "question": "Khan wished to completely change the way courses are taught in schools.",
+            "answer": "NO",
+            "answer_description": "Khan never intended to overhaul the school curricula and he doesn’t have a consistent, comprehensive plan for doing so."
+          },
+          {
+            "question": "School grade levels are based on the idea of students progressing at different rates.",
+            "answer": "NO",
+            "answer_description": "The very concept of grade levels implies groups of students moving along together at an even pace."
+          },
+          {
+            "question": "Some principals have invited Khan into their schools to address students.",
+            "answer": "NOT GIVEN",
+            "answer_description": "Principals are mentioned, but there is nothing about them inviting Khan into their schools."
+          },
+          {
+            "question": "Khan has given advice to other people involved in start-up projects.",
+            "answer": "NOT GIVEN",
+            "answer_description": "Start-ups are mentioned, but there is nothing about Khan giving advice on them."
+          }
+        ]
+      },
+      "matching_question": {
+        "title": "Complete each sentence with the correct ending, below.",
+        "choices": [
+          "is only suited to subjects where questions have exact answers.",
+          "can teach both the strongest and the weakest pupils in a class.",
+          "means the teaching of other school subjects will have to be changed.",
+          "only prepares students to pass exams.",
+          "could cause student achievement to improve too quickly.",
+          "requires all students to own the necessary technology.",
+          "is unlikely to have a successful outcome most students."
+        ],
+        "priority": 3,
+        "questions": [
+          {
+            "question": "Bill Gates thinks Khan Academy $...$",
+            "answers": [
+              {
+                "answer": "can teach both the strongest and the weakest pupils in a class.",
+                "answer_description": "Nevertheless, some of his fans believe that he has stumbled onto the solution to education’s middle-of-the-class mediocrity, Most notable among them is Bill Gates, ..."
+              }
+            ]
+          },
+          {
+            "question": "According to Gary Stager, Khan Academy $...$",
+            "answers": [
+              {
+                "answer": "only prepares students to pass exams.",
+                "answer_description": "Schools have become “joyless test-prep factories,” he says, and Khan Academy caters to this dismal trend."
+              }
+            ]
+          },
+          {
+            "question": "Sylvia Martinez regrets that Khan Academy $...$",
+            "answers": [
+              {
+                "answer": "is unlikely to have a successful outcome most students.",
+                "answer_description": "... she doubts that it would work for the majority of pupils ..."
+              }
+            ]
+          },
+          {
+            "question": "Ben Kamens has been told that Khan Academy $...$",
+            "answers": [
+              {
+                "answer": "could cause student achievement to improve too quickly.",
+                "answer_description": "... wondered whether they could modify it “to stop students from becoming this advanced.”"
               }
             ]
           }
