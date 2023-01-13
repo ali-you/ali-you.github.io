@@ -381,7 +381,9 @@
                 ]
               },
               {
-                "answer": ["transfer paper"]
+                "answer": [
+                  "transfer paper"
+                ]
               }
             ]
           }
@@ -410,6 +412,102 @@
             "question": "Weingart got many of his ideas from his students in Basel.",
             "answer": "NOT GIVEN",
             "answer_description": "Weingart is mentioned, but nothing is said about where his ideas originated."
+          }
+        ]
+      }
+    },
+    {
+      "reading_title": "Last man standing",
+      "reading_content": "Some 50,000 years ago, Homo sapiens beat other hominids to become the only surviving species. Kate Ravilious reveals how we did it.\nToday, there are over seven billion people living on Earth. No other species has exerted as much influence over the planet as us. But turn the clock back 80,000 years and we were one of a number of species roaming the Earth. Our species, Homo sapiens [Latin for ‘wise man’], was most successful in Africa. In western Eurasia, the Neanderthals dominated, while Homo erectus may have lived in Indonesia. Meanwhile, an unusual finger bone and tooth, discovered in Denisova cave in Siberia In 2008, have led scientists to believe that yet another human population - the Denisovans - may also have been widespread across Asia. Somewhere along the line, these other human species died out, leaving Home sapiens as the sole survivor. So what made us the winners in the battle for survival?\n\nSome 74,000 years ago, the Toba ‘supervolcano’ on the Indonesian island of Sumatra erupted. The scale of the event was so great that ash from the eruption was flung as far as eastern India, more than 2,000 kilometres away Oxford archaeologist Mike Petraglia and his team have uncovered thousands of stone tools buried underneath the Toba ash. The mix of hand axes and spear tips has led Petraglia to speculate that Homo sapiens and Homo erectus were both living in eastern India prior to the Toba eruption. Based on careful examination of the tools and dating of the sediment layers where they were found. Petraglia and his team suggest that Homo sapiens arrived in eastern India around 78,000 years ago, migrating out of Africa and across Arabia during a favourable climate period. After their arrival, the simple tools belonging to Homo erectus seemed to lessen in number and eventually disappear completely. ‘We think that Homo sapiens had a more efficient hunting technology, which could have given them the edge,’ says Petraglia. ‘Whether the eruption of Toba also played a role in the extinction of the Homo erectus-like species is unclear to us.’\n\nSome 45,000 years later, another fight for survival took place. This time, the location was Europe and the protagonists were another species, the Neanderthals. They were a highly successful species that dominated the European landscape for 300,000 years. Yet within just a few thousand years of the arrival of Homo sapiens, their numbers plummeted, They eventually disappeared from the landscape around 30,000 years ago, with their last known refuge being southern Iberia, including Gibraltar. Initially, Homo sapiens and Neanderthals lived alongside each other and had no reason to compete. But then Europe's climate swung into a cold, inhospitable one, dry phase. ‘Neanderthal and Homo sapiens populations had to retreat to refugia [pockets of habitable land]. This heightened competition between the two groups,’ explains Chris Stringer, an anthropologist at the Natural History Museum in London. \n\nBoth species were strong and stockier than the average human today, but Neanderthals were particularly robust. ‘Their skeletons show that they had broad shoulders and thick necks,’ says Stringer. ‘Homo sapiens, on the other hand, had longer forearms, which undoubtedly enabled them to throw a spear from some distance, with less danger and using relatively little energy,’ explains Stringer. This long-range ability may have given Homo sapiens an advantage in hunting. When it came to keeping warm, Homo sapiens had another skill: weaving and sewing. Archaeologists have uncovered simple needles fashioned from ivory and bone alongside Homo sapiens, dating as far back as 35,000 years ago. ‘Using this technology, we could use animal skins to make ourselves tents, warm clothes, and fur boots,’ says Stringer. In contrast, Neanderthals never seemed to master sewing skills, instead relying on pinning skins together with thorns. \n\nA thirst for exploration provided Homo sapiens with another significant advantage over Neanderthals. Objects such as shell beads and flint tools, were discovered many miles from their source, show that our ancestors travelled over large distances, in order to barter and exchange useful materials, and share ideas and knowledge. By contrast, Neanderthals tended to keep themselves to themselves, Living in small groups. They misdirected their energies by only gathering resources from their immediate surroundings and perhaps failing to discover new technologies outside their territory.\n\nSome of these differences in behaviour may have emerged because the two species thought in different ways. By comparing skull shapes, archaeologists have shown that Homo sapiens had a more developed temporal lobe —the regions at the side of the brain, associated with listening, language, and long-term memory. ‘We think that Homo sapiens had a significantly more complex language than Neanderthals and were able to comprehend and discuss concepts such as the distant past and future,’ says Stringer. Penny Spikins, an archaeologist at the University of York, has recently suggested that Homo sapiens may also have had a greater diversity of brain types than Neanderthals. ‘Our research indicates that high-precision tools, new hunting technologies, and the development of symbolic communication may all have come about because they were willing to include people with “different” minds and specialised roles in their society,’ she explains. ‘We see similar kinds of injuries on male and female Neanderthal skeletons, implying there was no such division of labour,’ says Spikins. \n\nThus by around 30,000 years ago, many talents and traits were well established in Homo sapiens societies but still absent from Neanderthal communities. Stringer thinks that the Neanderthals were just living in the wrong place at the wrong time. ‘They had to compete with Homo sapiens during a phase of very unstable climate across Europe. During each rapid climate fluctuation, they may have suffered greater losses of people than Homo sapiens, and thus were slowly worn down,’ he says. ‘if the climate had remained stable throughout, they might still be here.’",
+      "question_count": 2,
+      "gap_question": {
+        "title": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+        "priority": 1,
+        "questions": [
+          {
+            "question": "Analysis of stone tools and $...$ has enabled Petraglia's team to put forward an arrival date for Homo sapiens in eastern India.",
+            "answers": [
+              {
+                "answer": [
+                  "sediment layers",
+                  "dating sediment layers"
+                ],
+                "answer_description": "Based on careful examination of the tools and dating of the sediment layers where they were found, Petraglia and his team suggest that Homo sapiens arrived in eastern India around 78,000 years age ..."
+              }
+            ]
+          },
+          {
+            "question": "Homo sapiens used both $...$ to make sewing implements.",
+            "answers": [
+              {
+                "answer": [
+                  "ivory and bone",
+                  "bone and ivory"
+                ],
+                "answer_description": "Archaeologists have uncovered simple needles fashioned from ivory and bone, alongside Homo sapiens ..."
+              }
+            ]
+          },
+          {
+            "question": "The territorial nature of Neanderthals may have limited their ability to acquire resources and $...$ .",
+            "answers": [
+              {
+                "answer": [
+                  "technologies",
+                  "new technologies"
+                ],
+                "answer_description": "They misdirected their energies by only gathering resources from their immediate surroundings and perhaps failing to discover new technologies outside their territory."
+              }
+            ]
+          },
+          {
+            "question": "Archaeologists examined $...$ in order to get an insight into Neanderthal and Homo sapiens’ capacity for language and thought.",
+            "answers": [
+              {
+                "answer": [
+                  "skull shapes"
+                ],
+                "answer_description": "By comparing skull shapes ..."
+              }
+            ]
+          }
+        ]
+      },
+      "matching_question": {
+        "title": "Look at the following statements and the list of researchers.\nMatch each statement with the correct researcher.",
+        "choices": [
+          "Mike Petraglia",
+          "Chris Stringer",
+          "Penny Spikins"
+        ],
+        "priority": 2,
+        "questions": [
+          {
+            "question": "No evidence can be found to suggest that Neanderthal communities allocated tasks to different members. \n ⭕ $...$",
+            "answers": [
+              {
+                "answer": "Penny Spikins",
+                "answer_description": "‘We see similar kinds of injuries on male and female Neanderthal skeletons, implying there was no such division of labour,’ says Spikins."
+              }
+            ]
+          },
+          {
+            "question": "Homo sapiens may have been able to plan ahead. \n ⭕ $...$",
+            "answers": [
+              {
+                "answer": "Chris Stringer",
+                "answer_description": "‘We think that Homo sapiens had a significantly more complex language than Neanderthals and were able to comprehend and discuss concepts such as the distant past and future,’ says Stringer."
+              }
+            ]
+          },
+          {
+            "question": "Scientists cannot be sure whether a sudden natural disaster contributed to the loss of a human species. \n ⭕ $...$",
+            "answers": [
+              {
+                "answer": "Mike Petraglia",
+                "answer_description": "... says Petraglia. ‘Whether the eruption of Toba also played a role in the extinction of the Homo erectus-like species is unclear to us.’"
+              }
+            ]
           }
         ]
       }
