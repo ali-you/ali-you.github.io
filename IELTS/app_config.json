@@ -3,6 +3,8 @@
   "bazaar": "",
   "current_version": "1.0.1",
   "min_version": "1.0.0",
+  "show_rate": false,
+  "show_rate_term": 5,
   "change_log": [],
   "social_media": [
     {
