@@ -2,7 +2,7 @@
   "google_play": "https://play.google.com/store/apps/details?id=com.uvco.tasbihcounter",
   "bazaar": "",
   "current_version": "1.0.0",
-  "min_version": "1.0.1",
+  "min_version": "1.0.0",
   "show_rate": false,
   "show_rate_term": 5,
   "change_log": [],
