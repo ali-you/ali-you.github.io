@@ -1,12 +1,9 @@
 body {
-    font-size: 18fr;
+    font-size: em;
     color: black;
-  }
-
-  .unselectable body{
     -moz-user-select: text;
     -khtml-user-select: text;
     -webkit-user-select: text;
     -ms-user-select: text;
     user-select: text;
-   }
+  }
