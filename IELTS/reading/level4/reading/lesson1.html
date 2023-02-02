@@ -62,7 +62,7 @@
 
 </html>
 
-<script type="text/javascript" src="js/api.js"></script>
+<!-- <script type="text/javascript" src="js/api.js"></script> -->
 
 <script>
 
@@ -76,14 +76,6 @@ function highlighter(start, end){
 }
 
   window.onload = function () {
-    // var url = document.location.href,
-    //     params = url.split('?')[1].split('&'),
-    //     data = {}, tmp;
-    // for (var i = 0, l = params.length; i < l; i++) {
-    //     tmp = params[i].split('=');
-    //     data[tmp[0]] = tmp[1];
-    // }
-    // if (typeof data.page === 'undefined') data.page = '1';
 
     var search = document.location.search.replace("?", ""),
       temp, data = new Map();
@@ -94,13 +86,14 @@ function highlighter(start, end){
       data.set(temp[i].split("=")[0], temp[i].split("=")[1])
     }
 
-    console.log(search);
-    console.log(temp);
-    console.log(data);
+    // console.log(search);
+    // console.log(temp);
+    // console.log(data);
     // console.log(url.split('?'));
-    console.log(document.location.search);
-    console.log(data.get("fontSize"));
-    document.body.style.fontSize = data.get("fontSize")+"px"
+    // console.log(document.location.search);
+    // console.log(data.get("fontSize"));
+    document.body.style.fontSize = data.get("fontSize")+"fr";
+    document.body.style.color = data.get("color");
 
     if(data.has("start") && data.has("end")){
       highlighter(parseInt(data.get("start")),parseInt(data.get("end")));
