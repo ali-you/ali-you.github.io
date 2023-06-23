@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.storyfont.android",
+      "sha256_cert_fingerprints": [
+        "CA:6F:79:73:E4:8A:74:04:00:B5:03:3B:6B:15:EA:B7:B0:F8:0D:56:B8:0F:0D:9D:F5:58:88:60:63:47:D5:FC",
+        "E6:0D:BE:E1:61:5D:47:5B:2E:99:D0:50:FC:03:AE:1C:E4:D4:F8:A6:64:50:61:66:C2:D4:F7:9C:F7:85:31:67"
+      ]
+    }
+  }
+]
