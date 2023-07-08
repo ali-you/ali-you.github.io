@@ -1,0 +1,34 @@
+{
+  "current_version": "1.0.0",
+  "min_version": "1.0.0",
+  "show_rate": false,
+  "show_rate_term": 5,
+  "change_log": [],
+  "social_media": [
+    {
+      "name": "instagram",
+      "link": "www.instagram.com/uvstudio",
+      "icon": "fuck.png",
+      "region": "global"
+    },
+    {
+      "name": "telegram",
+      "link": "www.instagram.com/uvstudio",
+      "icon": "fuck.png",
+      "region": "global"
+    }
+  ],
+  "support_link": [
+    {
+      "name": "email",
+      "link": "www.instagram.com/uvstudio",
+      "icon": "fuck.png",
+      "region": "ir"
+    }
+  ],
+  "show_banner": true,
+  "show_interstitial": true,
+  "show_rewarded_interstitial": true,
+  "show_rewarded": true,
+  "show_app_open_ads": true
+}
