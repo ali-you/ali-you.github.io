@@ -2,6 +2,7 @@
   "version": 1,
   "fonts": [
     {
+      "id": 1,
       "font_name": "steelfish regular",
       "code_name": "steelfish_rg",
       "priority": 1,
