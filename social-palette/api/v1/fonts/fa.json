@@ -4,6 +4,7 @@
     {
       "id": 1,
       "font_name": "steelfish regular",
+      "font_family": "steelfish reqular",
       "script_name": "steelfish_rg",
       "priority": 1,
       "image_url": "",

@@ -4,6 +4,7 @@
     {
       "id": 1,
       "font_name": "steelfish regular",
+      "font_family": "steelfish reqular",
       "script_name": "steelfish_rg",
       "priority": 1,
       "background_url": "https://www.fontmirror.com/app_public/files/t/1/featured_image/2020/03/featured_4276.jpg",
@@ -18,6 +19,7 @@
     {
       "id": 2,
       "font_name": "steelfish",
+      "font_family": "steelfish reqular",
       "script_name": "steelfish_rg",
       "priority": 1,
       "image_url": "https://www.fontmirror.com/app_public/files/t/1/featured_image/2020/03/featured_4276.jpg",
@@ -31,6 +33,7 @@
     {
       "id": 3,
       "font_name": "steelfish regular",
+      "font_family": "steelfish reqular",
       "script_name": "steelfish_rg",
       "priority": 1,
       "image_url": "https://www.fontmirror.com/app_public/files/t/1/featured_image/2020/03/featured_4276.jpg",
