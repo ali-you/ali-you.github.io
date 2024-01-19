@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "wallpaper_categories": [
+    {
+      "id": 1,
+      "name": "nature",
+      "title": "Nature wallpapers",
+      "image_url": "",
+      "subtitle": "some subtitle note"
+    }
+  ]
+}
