@@ -1,21 +1,22 @@
 {
   "current_version": "1.0.0",
   "min_version": "1.0.0",
+  "current_build_version": 1,
+  "min_build_version": 1,
   "font_store_version": 1,
   "wallpaper_store_version": 1,
-  "font_version": {
-    "fa": 1,
-    "en": 2
-  },
-  "wallpaper_category_version": {
-    "1": 1
-  },
+  "comment": "en = 1, fa = 2 // nature = 1",
+  "font_version": [1, 2],
+  "wallpaper_category_version": [1],
   "show_rate": false,
   "show_rate_term": 5,
   "change_log": [],
-  "show_banner": true,
-  "show_interstitial": true,
-  "show_rewarded_interstitial": true,
-  "show_rewarded": true,
-  "show_app_open_ads": true
+  "other_apps_version": 1,
+  "ads_config": {
+    "show_banner": true,
+    "show_interstitial": true,
+    "show_rewarded_interstitial": true,
+    "show_rewarded": true,
+    "show_app_open_ads": true
+  }
 }
