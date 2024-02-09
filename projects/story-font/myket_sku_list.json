@@ -1,0 +1,22 @@
+{
+"sku_details": [
+  {
+    "productId": "aliyou30",
+    "title": "اشتراک ۱ ماهه",
+    "description": "اشتراک ۱ ماهه",
+    "price": "۹۹۰۰۰ تومان"
+  },
+  {
+    "productId": "aliyou180",
+    "title": "اشتراک ۶ ماهه",
+    "description": "اشتراک ۶ ماهه",
+    "price": "۲۴۹۰۰۰ تومان"
+  },
+  {
+    "productId": "aliyou365",
+    "title": "اشتراک ۱ ساله",
+    "description": "اشتراک ۱ ساله",
+    "price": "۳۶۵۰۰۰ تومان"
+  }
+]
+}
