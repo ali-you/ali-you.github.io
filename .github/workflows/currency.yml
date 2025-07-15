@@ -1,0 +1,41 @@
+name: Call API and Update JSON
+
+on:
+  schedule:
+    - cron: '0 0,8,16 * * *' # Runs at 00:00, 08:00, and 16:00 UTC daily
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Call API and update JSON
+        env:
+          API_URL: ${{ secrets.API_URL }} # Store API URL in secrets
+        run: |
+          # Install jq for JSON processing
+          sudo apt-get update && sudo apt-get install -y jq
+          # Make API call and save response to data.json
+          curl -s "$API_URL" > response.json
+          # Optionally process the response (e.g., merge with existing data.json)
+          jq '.' response.json > data.json
+          # Move data.json to the appropriate location
+          mv data.json ./path/to/your/data.json
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add ./path/to/your/data.json
+          git commit -m 'Update JSON with API data'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
